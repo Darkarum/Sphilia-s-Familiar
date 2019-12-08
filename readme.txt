@@ -1,11 +1,11 @@
-Саня пи дор и хуила
+Дима ган дон
 ------------------------------------------------------------
 
 Sphilia's Familiar
 
 ------------------------------------------------------------
 
-Thank you for purchasing 
+Thank you for purchasing
 "Sphilia's Familiar."
 
 This game is made using "RPG Maker VXAce."
@@ -39,55 +39,55 @@ dorgel.contact@gmail.com
 Thank you very much.
 *********************
 
-◆Script Materials◆
+��Script Materials��
 
 CACAO SOFT http://cacaosoft.web.fc2.com/
-ツクール工房 A1（仮） http://a1tktk.web.fc2.com/
+�c�N�[���H�[ A1�i���j http://a1tktk.web.fc2.com/
 Artificial Providence http://artificialprovidence.web.fc2.com/
-みんとのお部屋 http://mintoroom.saloon.jp/
-木星ペンギン http://woodpenguin.blog.fc2.com/
-塵風 http://windmesser.tm.land.to/index.html
-ひきも記 http://hikimoki.sakura.ne.jp/
-プチレア http://petitrare.com/blog/
-へぷたなすくろーる http://heptanas.mamagoto.com/
-回想領域 http://kaisou-ryouiki.sakura.ne.jp/
-Supponの意味不明ブログ http://supponweblog.blog88.fc2.com/
+�݂��Ƃ̂����� http://mintoroom.saloon.jp/
+�ؐ��y���M�� http://woodpenguin.blog.fc2.com/
+�o�� http://windmesser.tm.land.to/index.html
+�Ђ����L http://hikimoki.sakura.ne.jp/
+�v�`���A http://petitrare.com/blog/
+�ւՂ��Ȃ������[�� http://heptanas.mamagoto.com/
+���z�̈� http://kaisou-ryouiki.sakura.ne.jp/
+Suppon�̈Ӗ��s���u���O http://supponweblog.blog88.fc2.com/
 WHITE-FLUTE http://www.whiteflute.org/wfrgss/
-Libのツクールページ イベントリプレイ http://librpg.zatunen.com/
-ParaSite2D6 RPG館 ブログ http://para.blog14.fc2.com/
+Lib�̃c�N�[���y�[�W �C�x���g���v���C http://librpg.zatunen.com/
+ParaSite2D6 RPG�� �u���O http://para.blog14.fc2.com/
 Blue Red Zone http://blueredzone.com/
-睡工房 http://hime.be/
-ももまる http://peachround.com/
+���H�[ http://hime.be/
+�����܂� http://peachround.com/
 
-◆Graphic Materials◆
+��Graphic Materials��
 
 CLOSET http://eurs.blog65.fc2.com/
-シアンのゆりかご http://cyanyurikago.web.fc2.com/
-王国興亡記 http://makapri.web.fc2.com/
-とらねこさんの小屋 http://www.k3.dion.ne.jp/~toraneko/
+�V�A���̂��肩�� http://cyanyurikago.web.fc2.com/
+�������S�L http://makapri.web.fc2.com/
+�Ƃ��˂������̏��� http://www.k3.dion.ne.jp/~toraneko/
 Blanche Patisserie http://www5.hp-ez.com/hp/white-patisserie/
-ユーディオ　自作ゲーム置き場 http://yuudio50.blog.fc2.com/
+���[�f�B�I�@�����Q�[���u���� http://yuudio50.blog.fc2.com/
 
-◆Audio Materials◆
+��Audio Materials��
 
-魔王魂 http://maoudamashii.jokersounds.com/
-龍的交響楽 http://d-symphony.nsf.jp/
+������ http://maoudamashii.jokersounds.com/
+���I�����y http://d-symphony.nsf.jp/
 M-ART http://mart.kitunebi.com/
-On-Jin ～音人～ http://on-jin.com/
-音楽の卵 http://ontama-m.com/
-甘茶の音楽工房 http://amachamusic.chagasi.com/
+On-Jin �`���l�` http://on-jin.com/
+���y�̗� http://ontama-m.com/
+�Ò��̉��y�H�[ http://amachamusic.chagasi.com/
 Music is VFR http://musicisvfr.com/
 MusMus http://musmus.main.jp
 DOVA-SYNDROME https://dova-s.jp
 Wingless Seraph https://wingless-seraph.net
 
-◆RPG Maker Materials◆
-RPGツクールDS グラフィック＆音楽素材集
+��RPG Maker Materials��
+RPG�c�N�[��DS �O���t�B�b�N�����y�f�ޏW
 (C)2017 KADOKAWA CORPORATION.
-TIME FANTASY：MONSTERS
-(C) 2018 DEGICA Co., LTD;　artist: Jason Perry.
+TIME FANTASY�FMONSTERS
+(C) 2018 DEGICA Co., LTD;�@artist: Jason Perry.
 
 
-◆Disclaimer◆
+��Disclaimer��
 Please note, the copyright owner assumes no responsibility
 in regard to any damages, troubles etc. that may be caused by using this software.
