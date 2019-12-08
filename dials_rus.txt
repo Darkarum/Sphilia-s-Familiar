@@ -32,7 +32,7 @@ That's a familiar for you girl!
 (Man that startled me)"
 0000005:face_plyr
 \N[002]
-"Alright, let's keep it up and go hunt us 
+"Alright, let's keep it up and go hunt us
 some monsters around here."
 0000006:
                         \I[125]Quick Tip\I[125]
@@ -143,7 +143,7 @@ Let's be more careful next time."
 Название:ルーンの翼
 0000030:face
 \N[001]
-"Where do you want to fly 
+"Where do you want to fly
 to with the Rune Wing?"
 0000031:Варианты выбора:
 Asgard Walled Citadel
@@ -215,7 +215,7 @@ No, ah, aaa mmf...♥♥"
 in the heat of the battle?"
 0000052:face_plyr
 \N[002]
-"I'll get behind \N[001] 
+"I'll get behind \N[001]
 in the heat of the battle
 and grab her by the ass!"
 0000053:
@@ -253,7 +253,7 @@ It's not right...♥"
 0000062:face_plyr
 \N[002]
 "I know!
-I'll grab \N[001] by her tits 
+I'll grab \N[001] by her tits
 and go to town with them!"
 0000063:
 Learned Skill, 'Titty Grab'!
@@ -265,7 +265,7 @@ Learned Skill, 'Titty Grab'!
 \N[001] was down on the ground!"
 0000065:face_plyr
 \N[002]
-"Hmm, this enemy will probably come 
+"Hmm, this enemy will probably come
 after me when \N[001] gets knocked out.
 Should I still slap \N[001] on the ass?"
 0000066:Варианты выбора:
@@ -350,7 +350,7 @@ I'm losing, my grip...♥
 0000091:face_plyr
 \N[002]
 "I know!
-I'll pinch \N[001] by her nips 
+I'll pinch \N[001] by her nips
 and twist them!"
 0000092:
 Learned Skill, 'Nipple Twister'!
@@ -437,7 +437,7 @@ Learned Skill, 'Hard Groping'!
 "Hey
 \N[001] was down on the ground!"
 0000114:
-\N[002] shoves his penis into \N[001] 
+\N[002] shoves his penis into \N[001]
 between her thighs and thrust his pelvis.
 0000115:face
 \N[001]
@@ -457,7 +457,7 @@ giving \N[002] a heavenly sensation!
 0000119:face_plyr
 \N[002]
 "I know!
-I'll use \N[001] to stroke my cock 
+I'll use \N[001] to stroke my cock
 between her thighs during battle!"
 0000120:
 Learned Skill, 'Thigh Job'!
@@ -472,7 +472,7 @@ Learned Skill, 'Thigh Job'!
 0000121:
 Heavenly Voice
 "Oh...fallen one with unfinished purpose...
-I will rid you of sin and chaos 
+I will rid you of sin and chaos
 with my powers \N[001]."
 0000122:
 The divine one take the sins away from \N[001]
@@ -506,12 +506,12 @@ but it was a very lewd dream..."
 0000130:face2
 \N[001]
 "I...I don't remember clearly...
-But it felt like I was living 
+But it felt like I was living
 someone else's life..."
 0000131:face_plyr
 \N[002]
 "It could be what you want.
-Too bad you can't get out of this life 
+Too bad you can't get out of this life
 anytime soon."
 0000132:face
 \N[001]
@@ -611,7 +611,7 @@ The monster grabs \N[001] by her ass!
 "Eeek!!
 D-Don't touch me there!"
 0000158:
-\N[001] has a smooth ass 
+\N[001] has a smooth ass
 that gets the monster excited!
 You let the monster gain a 20% attack boost!
 0000159:
@@ -624,7 +624,7 @@ The monster pervs out on the unconscious \N[001]!
 \N[001] lets out a small sigh but nothing happened!
 0000161:
 The monster lunges to suck \N[001] on her lips!
-The warm tongue invaded her mouth 
+The warm tongue invaded her mouth
 as they tongue wrestled.
 0000162:face
 \N[001]
@@ -734,11 +734,11 @@ Godel...master Godel..."
 0000175:face_cath
 Godel
 "Uh, Ohhh...Y-You're the slave girl...
-I mean, the lady 
+I mean, the lady
 who's always with that man..."
 0000176:face_cath
 Godel
-"What bring you here 
+"What bring you here
 in the middle of the night...?"
 0000177:face3
 \N[001]
@@ -754,12 +754,12 @@ Godel
 "....................."
 0000181:face_cath
 Godel
-"I see. I see what it is. 
+"I see. I see what it is.
 Those glistening eyes...♥"
 0000182:face_cath
 Godel
 "Any woman who sleeps with me
-sooner or later comes back to me 
+sooner or later comes back to me
 with those eyes...!"
 0000183:face3
 \N[001]
@@ -774,17 +774,17 @@ Huhhh...?"
 "..............."
 0000186:face_cath
 Godel
-"I can't tell 
+"I can't tell
 if you keep quiet like that..."
 0000187:face_cath
 Godel
 "Very well.
-If you're embarrassed, 
+If you're embarrassed,
 there's no need for words..."
 0000188:face_cath
 Godel
 "I'm very generous...
-I will forget 
+I will forget
 the fact your partner shamed me...!"
 0000189:face_cath
 Godel
@@ -805,7 +805,7 @@ Godel
 0000194:
 Godel
 "Mmf fm fm...
-That pussy juice from a young girl 
+That pussy juice from a young girl
 sure tastes fine...♥"
 0000195:
 \N[001]
@@ -870,7 +870,7 @@ want to come...so bad...!"
 0000209:
 Godel
 "If you come, I will never let you have my cock♥
-If you don't want that, 
+If you don't want that,
 you will have to endure my cunnilingus all night."
 0000210:
 \N[001]
@@ -1000,7 +1000,7 @@ Bwa ha ha."
 0000240:face3
 \N[001]
 "Yes...all this time...
-I've been thinking nothing but 
+I've been thinking nothing but
 your cock master Godel."
 0000241:face_cath
 Godel
@@ -1054,7 +1054,7 @@ Please only look at me...!"
 0000252:
 Godel
 "What's this? Are you trying to keep me for yourself?
-I'm sorry to disappoint, 
+I'm sorry to disappoint,
 but there are plenty of women who want me."
 0000253:
 \N[001]
@@ -1104,7 +1104,7 @@ Godel
 0000263:
 \N[001]
 "It feels good♥
-My pussy...is feeling so good with 
+My pussy...is feeling so good with
 master Godel's penis!"
 0000264:
 Godel
@@ -1154,7 +1154,7 @@ Mm, mf, mmmmmm♥♥♥"
 Master...Godel...♥"
 0000275:
 And so, \N[001] promised to pay gold
-in exchange for sex 
+in exchange for sex
 with the hideous old man, Godel...
 Номер:78
 Название:H:ストリップ
@@ -1205,7 +1205,7 @@ with the hideous old man, Godel...
 0000277:
 "Ah...it's still small...
 But it's okay♥
-Once I suck on it 
+Once I suck on it
 it's going to...schlop..."
 0000278:
 "Schlip schlip...ah, big brother...
@@ -1263,7 +1263,7 @@ and put all of it in my mouth."
 0000293:
 "Immediately, big brother's penis became so big
 I couldn't fit in my mouth...That made me so happy...
-I gave big brother a blow job every night 
+I gave big brother a blow job every night
 until he came..."
 0000294:
 "Of course, big brother woke up during it all...
@@ -1289,7 +1289,7 @@ Come on, more...lap, lap, laaap...♥"
 "Ooh, it's bulging so much...♥
 Are you cumming? Are you cumming?"
 0000300:
-"I'm gonna put your penis tip 
+"I'm gonna put your penis tip
 in my mouth and go glup glup.
 Glup glup glup glup glup♥"
 0000301:
@@ -1383,7 +1383,7 @@ Not now
 Номер:107
 Название:サラッと見るコモン
 0000326:
-The two spent the night ravaging 
+The two spent the night ravaging
 each other's bodies...
 Номер:108
 Название:PlyrとのHによるP増加
@@ -1575,7 +1575,7 @@ having sex on my smartphone.
 I'm gonna download it to my computer and watch it."
 0000370:face_plyr
 \N[002]
-"Now that I'm home, I should buy some useful 
+"Now that I'm home, I should buy some useful
 things for when I go back...
 Weapons, of course."
 0000371:face_plyr
@@ -1585,7 +1585,7 @@ I'm low on cash though."
 0000372:face_plyr
 \N[002]
 "Oh! I know. I have gold with me.
-Let me email them to see 
+Let me email them to see
 if I can buy anything with this."
 0000373:face_plyr
 \N[002]
@@ -1595,7 +1595,7 @@ if I can buy anything with this."
 0000374:face_plyr
 \N[002]
 "These kind of shops have something different
-depending on the day... 
+depending on the day...
 I should check back sometimes."
 0000375:face_plyr
 \N[002]
@@ -1605,7 +1605,7 @@ I'm gonna click it."
 0000376:face_plyr
 \N[002]
 "I got a message... 'Return to Asgard?'
-...Huh. 
+...Huh.
 So I can travel all I want to another world."
 0000377:face_plyr
 \N[002]
@@ -1654,7 +1654,7 @@ events and experience different endings.
 0000387:
 \>                        \I[125]Quick Tip\I[125]\<
 Be careful of \V[32].
-If \V[30] or \V[31] goes over \V[32] 
+If \V[30] or \V[31] goes over \V[32]
 and you stay in an inn...\i[1]
 0000388:
 \>                        \I[125]Quick Tip\I[125]\<
@@ -1690,7 +1690,7 @@ I hate you \N[002]!"
 Stupid \N[002]."
 0000396:face2
 \N[001]
-"A-Anyway...I'm sure there was a book 
+"A-Anyway...I'm sure there was a book
 in the basement library
 about the demon lord and the elite four."
 0000397:face
@@ -1917,7 +1917,7 @@ I don't know...what to do...sluuurp...♥"
 0000450:
 
 0000451:
-\N[002] shoves his penis into \N[001] 
+\N[002] shoves his penis into \N[001]
 between her thighs and thrust his pelvis.
 0000452:face
 \N[001]
@@ -2094,7 +2094,7 @@ Ah, ah, ah♥
 It's knocking inside me!!"
 0000495:
 Qua
-"It's really strange...! 
+"It's really strange...!
 I think my body, is going crazy!
 Mmm, mmf, mmmmm♥♥"
 0000496:
@@ -2331,7 +2331,7 @@ Raping \v[107] resulted in...\|...
 0000550:face5
 \N[001] is glaring at you in a furious
 expression!
-\N[001] is enraged, boosting magic by x2!  
+\N[001] is enraged, boosting magic by x2!
 0000551:
 \N[002] loses strength and defense falls by half!
 0000552:
@@ -2405,12 +2405,12 @@ click(quietly)
 Название:ラオダ夜中選択
 0000571:
 However, the night in Laoda is enveloped
-with a lewd feeling, 
+with a lewd feeling,
 preventing you from sleeping...
 0000572:
 Control as \N[001] or \N[002]?
 0000573:Варианты выбора:
-\N[001]   
+\N[001]
 \N[002]
 Номер:198
 Название:
@@ -2568,7 +2568,7 @@ be too heavy for you, \N[001]."
 0000610:face
 \N[001]
 "Hello. Oh, no not for me.
-I was wondering if there was anything 
+I was wondering if there was anything
 for \N[002] here..."
 0000611:
 Weapon Shop Owner Zod
@@ -2815,7 +2815,7 @@ I need something better."
 A weakling just won't cut it."
 Событие №:4
 0000631:
-"My last slave is now useless, 
+"My last slave is now useless,
 so I'll make sure not to make the same mistake this time."
 Событие №:5
 0000632:
@@ -3015,7 +3015,7 @@ in the northern cities and is now a convict on the run.
 He was captured with no money on him."
 0000682:
 Auctioneer
-"Very well experienced with infiltrating, we're starting 
+"Very well experienced with infiltrating, we're starting
 from 5000\g...5000...6000...7000 from over here,
 7000...do I hear 8000...?"
 0000683:
@@ -3024,7 +3024,7 @@ Auctioneer
 to the silver-haired man for 12000!"
 0000684:face2
 \N[001]
-"How heinous... To think something this inhumane 
+"How heinous... To think something this inhumane
 is still being done..."
 0000685:
 Auctioneer
@@ -3058,7 +3058,7 @@ Owner
 Can I help you?"
 0000691:face_plyr
 \N[002]
-"Hey there. 
+"Hey there.
 I want to sell a slave for the auction."
 0000692:
 Owner
@@ -3090,18 +3090,18 @@ what would they do to me...!?)
 He has a demon penis!)
 0000700:face_plyr
 \N[002]
-*Whisper* (I'm gonna rescue you before 
+*Whisper* (I'm gonna rescue you before
 he does anything to you. Don't worry about it.)
 0000701:face
 \N[001]
 *Whisper* (I'm super worried!)
 0000702:face_plyr
 \N[002]
-"It's settled. So, on the day of 
+"It's settled. So, on the day of
 the auction I want Godel to be there."
 0000703:
 Owner
-"Mr. Godel? I see. 
+"Mr. Godel? I see.
 A man of his caliber will surely place a hefty bid."
 0000704:face_plyr
 \N[002]
@@ -3252,8 +3252,8 @@ I'll pay him a visit.)
 0000744:
 Choose the scene to start on.
 0000745:Варианты выбора:
-After opening scene
-Opening Scene
+Пропустить вступление
+Показать вступление
 Epilogue if(s[28])
 0000746:
 Please enter your name.
@@ -3268,7 +3268,7 @@ the two prepare to set off on an adventurous journey...
 0000749:
 Во времена правления Владыки демонов...
 0000750:
-Humans were treated as vermin.
+Людей считали паразитами.
 Men were placed on labor
 and women were used as playthings for monsters.
 0000751:
@@ -3426,8 +3426,8 @@ possessed magical powers that could split mountains.
 Originally known as just a wizard, Belg became known
 as the holy wizard after defeating the demon lord.'
 0000781:
-'Summoning Rod as his familiar, 
-he fought with the demons 
+'Summoning Rod as his familiar,
+he fought with the demons
 and brought peace to the world.'
 0000782:
 'He now rests in peace in Asgard and
@@ -3513,7 +3513,7 @@ without any reason."
 I mean, I don't want to either."
 0000802:face_plyr
 \N[002]
-"Once we know there're clues 
+"Once we know there're clues
 on the demon lord here
 we should come back."
 0000803:face
@@ -3556,7 +3556,7 @@ There are no other crystals active in this tower...
 It's raining inside the tower."
 0000813:face3
 \N[001]
-"It looks like it's raining 
+"It looks like it's raining
 from the top of the tower."
 0000814:face_plyr
 \N[002]
@@ -3593,7 +3593,7 @@ You're looking cute as usual."
 0000820:face
 \N[001]
 "In our attempt to stop the demon lord
-from coming back, I decided to go on 
+from coming back, I decided to go on
 an adventure with my familiar here."
 0000821:face_plyr2
 Guard Commander
@@ -3646,12 +3646,12 @@ Guard Commander
 I'm worried about this worm for you \N[001]..."
 0000834:face
 \N[001]
-"We are on a directionless journey 
-and must make it in time to stop the demon lord 
+"We are on a directionless journey
+and must make it in time to stop the demon lord
 from coming back..."
 0000835:face
 \N[001]
-"...so we were hoping the guards 
+"...so we were hoping the guards
 could lend us any clues."
 0000836:face_plyr2
 Guard Commander
@@ -3663,29 +3663,29 @@ But ain't that journey a bit too dangerous?"
 0000838:face_plyr2
 Guard Commander
 "You say so but... If you ask me
-I don't believe 
+I don't believe
 that the demon lord is coming back."
 0000839:face2
 \N[001]
 "You don't?"
 0000840:face_plyr2
 Guard Commander
-"However, we can't turn a blind eye 
+"However, we can't turn a blind eye
 on the matter......
 I'll tell you what."
 0000841:face_plyr2
 Guard Commander
-"There's been an increase of monsters around 
-town lately. The city guards have been 
+"There's been an increase of monsters around
+town lately. The city guards have been
 complaining about the matter."
 0000842:face_plyr2
 Guard Commander
 "We only have a limited amount of hands...
-So how about this. Could you defeat the mushroom 
+So how about this. Could you defeat the mushroom
 monsters around town?"
 0000843:face_plyr2
 Guard Commander
-"If you take out 10 of them, you can prove your 
+"If you take out 10 of them, you can prove your
 strength to us, and you'd be helping us too."
 0000844:face
 \N[001]
@@ -3694,7 +3694,7 @@ Not a problem."
 0000845:face_plyr2
 Guard Commander
 "Don't stress yourself, you hear?
-If you feel it's too dangerous 
+If you feel it's too dangerous
 you don't have to do it."
 0000846:face
 \N[001]
@@ -3723,8 +3723,8 @@ Guard Commander
 "So I heard. My team gave me the report."
 0000853:face_plyr2
 Guard Commander
-"You've done a fine job...! 
-At this rate you should be successful with 
+"You've done a fine job...!
+At this rate you should be successful with
 your journey to stop the demon lord."
 0000854:face_plyr2
 Guard Commander
@@ -3773,7 +3773,7 @@ It's hard to believe but..."
 0000866:face_plyr2
 Guard Commander
 "According to the information we just received,
-over at the Djerba Forest east to town there was 
+over at the Djerba Forest east to town there was
 a sighting of a suspicious shadow figure."
 0000867:face_plyr2
 Guard Commander
@@ -3792,8 +3792,8 @@ What's a Zeldia?"
 "One of the elite four...!"
 0000871:face_plyr2
 Guard Commander
-"If it's really Zeldia, Only the holy wizard 
-will be able to match her. There's no other way 
+"If it's really Zeldia, Only the holy wizard
+will be able to match her. There's no other way
 but have \N[001] go and face her..."
 0000872:face_plyr2
 Guard Commander
@@ -3808,7 +3808,7 @@ Okay \N[002]?"
 0000874:face_plyr2
 Guard Commander
 "It's not much, but it could be of use.
-This is payment for investigating 
+This is payment for investigating
 the Eastern bridge."
 0000875:
 Got 600\g!
@@ -3844,7 +3844,7 @@ Take it with you."
 Got 1000\g!
 0000884:face_plyr2
 Guard Commander
-"The pillar of flame should burn out 
+"The pillar of flame should burn out
 sooner or later.
 Why don't you go take a look?"
 0000885:face
@@ -3853,13 +3853,13 @@ Why don't you go take a look?"
 Be careful guarding the city commander..."
 0000886:face_plyr2
 Guard Commander
-"The demon lord coming back...Hey \N[002], 
-you better not cause any trouble for \N[001]. 
+"The demon lord coming back...Hey \N[002],
+you better not cause any trouble for \N[001].
 You little shit."
 0000887:face_plyr2
 Guard Commander
-"The demon lord coming back...Hey \N[002], 
-you better not cause any trouble for \N[001]. 
+"The demon lord coming back...Hey \N[002],
+you better not cause any trouble for \N[001].
 You little shit."
 0000888:face_plyr2
 Guard Commander
@@ -3874,7 +3874,7 @@ Guard Commander
 0000891:face_plyr
 \N[002]
 "Hey, I'm her familiar...
-I couldn't possibly do anything 
+I couldn't possibly do anything
 that drastic...maybe...?"
 0000892:face_plyr2
 Guard Commander
@@ -3905,7 +3905,7 @@ Lovely day today..."
 0000899:face_plyr2
 Guard Commander
 "Eek! M-My apologies...
-Um, will you let me have sex 
+Um, will you let me have sex
 with \N[001] again...?"
 0000900:Варианты выбора:
 Sure
@@ -3942,7 +3942,7 @@ Guard Commander
 Событие №:5
 0000910:
 Guard
-"There seems to be more monsters 
+"There seems to be more monsters
 outside the city.
 I hope it's not a bad omen or anything..."
 0000911:
@@ -3951,7 +3951,7 @@ Guard
 0000912:
 Guard
 "This,
-This is the city's saint \N[001] 
+This is the city's saint \N[001]
 and her ass wrinkles...♥"
 0000913:
 Guard
@@ -3974,7 +3974,7 @@ Guard
 "Woah...nice ass!
 Let me have a feel...here!"
 0000918:
-The guard brushed his hand 
+The guard brushed his hand
 against \N[001]'s ass!"
 0000919:face
 \N[001]
@@ -3993,7 +3993,7 @@ It's locked...
 "You're still in here?
 Is this your home?"
 0000923:
-"Actually, I was released 
+"Actually, I was released
 before you bunch got arrested..."
 0000924:
 \N[002]
@@ -4107,7 +4107,7 @@ With that attitude you can stay in there forever."
 Событие №:11
 0000953:face
 \N[001]
-"The guards are on stand by 
+"The guards are on stand by
 inside the detention camp."
 0000954:face
 \N[001]
@@ -4116,18 +4116,18 @@ He should be in the room in the back left."
 Событие №:12
 Событие №:13
 0000955:
-"Unbelievable! 
+"Unbelievable!
 Why would you do such a thing with \N[001] at your side?
 I'll let you off easy for your first crime,
 but don't think you can get away doing it again!"
 0000956:face
 \N[001]
-"I didn't have time to stop you at all. Asgard 
+"I didn't have time to stop you at all. Asgard
 is very strict on committing your second crime.
 Please don't do it again."
 0000957:face_plyr
 \N[002]
-(If that's the case, I'll do it again 
+(If that's the case, I'll do it again
 and get \N[001]...
 He he he...)
 0000958:
@@ -4146,7 +4146,7 @@ Guard Commander
 What are you doing!?"
 0000962:face_plyr2
 Guard Commander
-"Huh...?! \N[001]...w-w-what are you doing 
+"Huh...?! \N[001]...w-w-what are you doing
 in that outfit...? Are you...?"
 0000963:face_plyr
 \N[002]
@@ -4172,7 +4172,7 @@ Guard Commander
 It can't....be..."
 0000968:face_plyr
 \N[002]
-"Hey Commander. If you apologize for being 
+"Hey Commander. If you apologize for being
 an ass to me this whole time,
 I'll let you put your dick in \N[001]."
 0000969:face_plyr2
@@ -4187,10 +4187,10 @@ However, I need a sincere apology from you."
 Guard Commander
 "I am very very sorry!
 I have underestimated how merciful
-and forgiving you were sir..." 
+and forgiving you were sir..."
 0000972:face_plyr2
 Guard Commander
-"How could I have talked down 
+"How could I have talked down
 on master \N[002]?! Stupid! I'm stupid!
 I'm an ass! I'm a bald bastard!"
 0000973:
@@ -4317,18 +4317,18 @@ it's all rusted and won't budge."
 0000999:face_plyr
 \N[002]
 "Jeez.
-It's not gonna open 
+It's not gonna open
 until we find some lubricant."
 0001000:face_plyr
 \N[002]
-"This is where this special lube used to 
+"This is where this special lube used to
 moisten those brothers' assholes comes in handy."
 0001001:face3
 \N[001]
 "You don't...have to be that descriptive..."
 0001002:face_plyr
 \N[002]
-"Taking this cream that was spread on two 
+"Taking this cream that was spread on two
 lewd men's buttcheeks and coating it like so..."
 0001003:face
 \N[001]
@@ -4342,14 +4342,14 @@ lewd men's buttcheeks and coating it like so..."
 it's all rusted."
 0001006:face_plyr
 \N[002]
-"This is where this special lube used to 
+"This is where this special lube used to
 moisten those brothers' assholes comes in handy."
 0001007:face3
 \N[001]
 "You don't...have to be that descriptive..."
 0001008:face_plyr
 \N[002]
-"Taking this cream that was spread on two 
+"Taking this cream that was spread on two
 lewd men's buttcheeks and coating it like so..."
 0001009:face
 \N[001]
@@ -4374,8 +4374,8 @@ Noble Godel
 "Hmmm? Who are you?"
 0001014:face_plyr
 \N[002]
-"Sorry to intrude, 
-but that slave there is mine 
+"Sorry to intrude,
+but that slave there is mine
 and I'm taking her back."
 0001015:face_cath
 Noble Godel
@@ -4423,7 +4423,7 @@ Noble Godel
 "Wha? Huh?"
 0001027:face4k
 Zeldia
-"Do want me to cut you in pieces, 
+"Do want me to cut you in pieces,
 Godel or whatever..."
 0001028:face_cath
 Noble Godel
@@ -4467,7 +4467,7 @@ This...fine sir? Wha? What do you mean?"
 0001039:face4k
 Zeldia
 "You pissed off three demons already.
-You don't think 
+You don't think
 you can get out of this alive, do you?"
 0001040:face_cath
 Noble Godel
@@ -4522,7 +4522,7 @@ you can get in..."
 0001054:face4k
 Zeldia
 "Are you sure?
-If you lie to us, 
+If you lie to us,
 I'll cut off more than just your hand."
 0001055:face_cath
 Noble Godel
@@ -4536,7 +4536,7 @@ By the way, why are you all here?"
 0001058:face_cath
 Noble Godel
 "You...? M-My boy!
-How could you speak to demons 
+How could you speak to demons
 in that casual manner?!"
 0001059:face4k
 Qua
@@ -4548,16 +4548,16 @@ Noble Godel
 "M-Master...\N[002]...?!"
 0001061:face4k
 Cidoles
-"I'd like to see Seto again, 
+"I'd like to see Seto again,
 since it's been so long."
 0001062:face4k
 Zeldia
-"For all of the elite four to regroup, 
-we figured it'd be easiest 
+"For all of the elite four to regroup,
+we figured it'd be easiest
 to assist master \N[002]."
 0001063:face_cath
 Noble Godel
-"T-The elite four...!!!!!! Three of the most 
+"T-The elite four...!!!!!! Three of the most
 powerful demons are right here...!!!!
 Aieeeeee...!!!!!"
 0001064:face_cath
@@ -4653,14 +4653,14 @@ There must be a reason why..."
 Событие №:20
 0001078:
 \N[002]
-"We've gone through this path once, 
+"We've gone through this path once,
 Let's just hurry on.
 0001079:Варианты выбора:
 Hurry off
 Explore the forest
 0001080:
 \N[002]
-"We've gone through this path once, 
+"We've gone through this path once,
 Let's just hurry on.
 0001081:Варианты выбора:
 Hurry off
@@ -4672,7 +4672,7 @@ Explore the forest
 Событие №:25
 0001082:
 \N[002]
-"We've gone through this path once, 
+"We've gone through this path once,
 Let's just hurry on.
 0001083:Варианты выбора:
 Hurry off
@@ -4709,7 +4709,7 @@ It's not a natural phenomenon nor man-made..."
 0001087:face2
 \N[001]
 "Demons...
-It could be the work of demonic entities 
+It could be the work of demonic entities
 who ruled these lands alongside the demon lord."
 0001088:face_plyr
 \N[002]
@@ -4721,15 +4721,15 @@ wondering around?"
 But they possess so much more magic power."
 0001090:face2
 \N[001]
-"But they should have disappeared 
+"But they should have disappeared
 with the demon lord..."
 0001091:face2
 \N[001]
-"When the demon lord was defeated 
+"When the demon lord was defeated
 by Belg the holy wizard..."
 0001092:face2
 \N[001]
-"It's said the elite four 
+"It's said the elite four
 who served the demon lord went into hiding."
 0001093:face2
 \N[001]
@@ -4752,13 +4752,13 @@ who served the demon lord went into hiding."
 0001099:face2
 \N[001]
 "It could be a sign...
-Maybe they mean to split the human societies 
+Maybe they mean to split the human societies
 in pieces."
 0001100:face_plyr
 \N[002]
 "...I see... Didn't we do enough for a day?
-Let's go back 
-and report to that dimwit commander." 
+Let's go back
+and report to that dimwit commander."
 0001101:face
 \N[001]
 "Yes!"
@@ -4769,7 +4769,7 @@ they served directly to the demon lord,
 and lead the world into darkness."
 0001103:face3
 \N[001]
-"That's what's told in the legends." 
+"That's what's told in the legends."
 0001104:face
 \N[001]
 "The elite four...
@@ -4777,7 +4777,7 @@ they served directly to the demon lord,
 and lead the world into darkness."
 0001105:face3
 \N[001]
-"That's what's told in the legends." 
+"That's what's told in the legends."
 0001106:face
 \N[001]
 "The flame is not out yet...
@@ -4835,7 +4835,7 @@ Ghost extermination complete!
 \N[001]
 "There's another black flame rising here...!
 Maybe a leader of the demon lord army
-is hiding nearby...!" 
+is hiding nearby...!"
 Событие №:89
 0001109:
 ジェルバの森なんてきたことないよ
@@ -4863,7 +4863,7 @@ Zeldia
 "There we go."
 0001117:face4k
 Zeldia
-"However, there may be other flames placed 
+"However, there may be other flames placed
 by the other elite four."
 0001118:face4k
 Zeldia
@@ -4904,7 +4904,7 @@ Farewell..."
 But now we can cross the bridge."
 0001129:face
 \N[001]
-"...Yes. Now we can cross the river 
+"...Yes. Now we can cross the river
 and reach the next area.
 Our adventure is finally about to start!"
 0001130:face_plyr
@@ -4927,21 +4927,21 @@ Let's go!"
 "Whoa, that's..."
 0001134:face2
 \N[001]
-"The Kius Volcano 
+"The Kius Volcano
  on the Kildora islands just erupted."
 0001135:face2
 \N[001]
 "I learned this in geography,
-but apparently that volcano erupts 
+but apparently that volcano erupts
 every 1000 years."
 0001136:face2
 \N[001]
-"But the history books 
+"But the history books
 said the last eruption was 500 years ago.
 isn't it too early...?"
 0001137:face
 \N[001]
-"This is bad!! I think there's a village 
+"This is bad!! I think there's a village
 near the Kius mountains.
 With an eruption that big the lava would...!"
 0001138:face_plyr
@@ -4968,15 +4968,15 @@ to this world."
 We can't go any further."
 0001142:face
 \N[001]
-"There's some distance 
+"There's some distance
 to the other side of the shore."
 0001143:face3
 \N[001]
-"If we were to swim to cross, 
+"If we were to swim to cross,
 we would freeze to death."
 0001144:face_plyr2
 \N[002]
-"I'm not swimming in a river 
+"I'm not swimming in a river
 with ice floating in it."
 0001145:face
 \N[001]
@@ -5017,7 +5017,7 @@ We have a bridge to cross on!"
 0001154:face_plyr
 \N[002]
 "Didn't your great, great, great...grandfather
-cross here to get over 
+cross here to get over
 to the demon lords palace?"
 0001155:face
 \N[001]
@@ -5042,7 +5042,7 @@ Qua
 "..............."
 0001160:face4k
 Qua
-"I went through the trouble of lighting this 
+"I went through the trouble of lighting this
 but I'll put it out 'cause it can't be helped."
 0001161:face_plyr
 \N[002]
@@ -5125,7 +5125,7 @@ Cidoles
 "Cidoles...!"
 0001183:face4k
 Cidoles
-"I was thinking 
+"I was thinking
 you couldn't get passed this flame."
 0001184:face_plyr
 \N[002]
@@ -5184,7 +5184,7 @@ Mmm I feel warm now♥"
 0001199:face4k
 Cidoles
 "Well then.
-Now that I'm all charged up, 
+Now that I'm all charged up,
 I'll put out the flame."
 0001200:face4k
 Cidoles
@@ -5225,7 +5225,7 @@ Cidoles
 0001210:face4k
 Cidoles
 "Okay.
-If that's the case 
+If that's the case
 I'll do this to master \N[002]. Smooch♥"
 0001211:face5
 \N[001]
@@ -5306,8 +5306,8 @@ it's so much larger in real life...!"
 "This is going to be a nuisance to go through."
 0001231:face
 \N[001]
-"There's record of three wise elder men 
-who crossed this desert. 
+"There's record of three wise elder men
+who crossed this desert.
 We should do our best too!"
 0001232:face_plyr2
 \N[002]
@@ -5400,7 +5400,7 @@ Don't skip
 are those gobsters out of the woods?"
 0001255:face3
 \N[001]
-"Because of Zeldia, it seems the goblins were 
+"Because of Zeldia, it seems the goblins were
 chased out of the forest.
 If only we could have defeated Zeldia sooner...."
 0001256:face_plyr2
@@ -5635,7 +5635,7 @@ we might get lost."
 0001301:face2
 \N[001]
 "I agree... There are more monsters than before.
-It could be dangerous 
+It could be dangerous
 to go forward for no reason."
 0001302:face_plyr
 \N[002]
@@ -5675,7 +5675,7 @@ There must be a reason for this..."
 "Well if things get ugly, we'll just run away."
 0001308:face
 \N[001]
-"Please... \N[002], 
+"Please... \N[002],
 I thought you were going to be beside me..."
 Событие №:13
 Событие №:14
@@ -5708,7 +5708,7 @@ Restore Health
 Warp
 Do Nothing
 0001316:
-There are no other crystals active 
+There are no other crystals active
 in this forest...
 Событие №:25
 0001317:
@@ -5797,7 +5797,7 @@ Please take back our home!"
 We don't stand a chance..."
 0001341:face_plyr
 \N[002]
-"After attacking us several times,  
+"After attacking us several times,
 you have the nerve to ask for our help?"
 0001342:face_plyr
 \N[002]
@@ -5832,7 +5832,7 @@ Restore Health
 Warp
 Do Nothing
 0001350:
-There are no other crystals active 
+There are no other crystals active
 in this forest...
 
 
@@ -6055,7 +6055,7 @@ Your face is scary all of a sudden."
 "...Now there's two flames..."
 0001393:face_plyr
 \N[002]
-"Isn't this where, 
+"Isn't this where,
 if you go the wrong way you get lost
 or it takes you back to the beginning?"
 0001394:face
@@ -6169,13 +6169,13 @@ Qua
 "...Who's there?"
 0001419:face4k
 Qua
-"I'm in the middle of a ritual 
+"I'm in the middle of a ritual
 to revive my demon lord.
 Go away."
 0001420:face4k
 Qua
 "I'm gathering the power of water...
-to contribute my heightened magic 
+to contribute my heightened magic
 to my demon lord."
 0001421:face2
 \N[001]
@@ -6224,19 +6224,19 @@ For example, I'm much nicer than big sis Cidoles."
 "Oh really...?"
 0001433:face4k
 Qua
-"I am. For example, I'm gathering magic for 
-the useless demon lord who lost against 
+"I am. For example, I'm gathering magic for
+the useless demon lord who lost against
 some human, because I feel sorry for him."
 0001434:face_plyr
 \N[002]
 "...You're feeling sorry for him."
 0001435:face4k
 Qua
-"It can't be helped. The demon lord is 
+"It can't be helped. The demon lord is
 an embarrassment to all demons for losing."
 0001436:face4k
 Qua
-"But because I'm kind, 
+"But because I'm kind,
 I'm going to try to revive him."
 0001437:face_plyr
 \N[002]
@@ -6247,7 +6247,7 @@ to get resurrected!"
 "Why are you getting mad \N[002]?"
 0001439:face_plyr2
 \N[002]
-"I don't know, 
+"I don't know,
 but that really got on my nerves."
 0001440:face4k
 Qua
@@ -6282,17 +6282,17 @@ you shall never be slanderous again!"
 "\N[001]! Charge!"
 0001448:face_plyr2
 \N[002]
-"Hmm, We've got to do something 
+"Hmm, We've got to do something
 about her water attacks...
 Our equipment now can't handle all of it."
 0001449:face4k
 Qua
 "You're so weak, and yet you came again.
-I'll let you know the difference 
+I'll let you know the difference
 in our powers again."
 0001450:face_plyr2
 \N[002]
-"Hmm, We've got to do something 
+"Hmm, We've got to do something
 about her water attacks...
 Our equipment now can't handle all of it."
 0001451:face4k
@@ -6302,7 +6302,7 @@ I-I don't believe it...I, lost?"
 0001452:face_plyr
 \N[002]
 "Eh?
-What was that about losing to 
+What was that about losing to
 a mere human thing?"
 0001453:face3
 \N[001]
@@ -6347,12 +6347,12 @@ Wasn't the demon lord a disgrace to all demons?
 Because he lost against a human♥"
 0001463:face_plyr
 \N[002]
-"Oh I get it. Now you're a disgrace too 
+"Oh I get it. Now you're a disgrace too
 for losing against a human.
 You disgrace! A disgrace to all demon-kind!"
 0001464:face3
 \N[001]
-"You don't have to tear apart 
+"You don't have to tear apart
 such a small girl..."
 0001465:face_plyr
 \N[002]
@@ -6523,7 +6523,7 @@ It's fine...I'm not hurt...!"
 0001498:face_cath
 Cas
 "R-Really...I'm okay.
-Once I became a mercenary, I was prepared for 
+Once I became a mercenary, I was prepared for
 something like this to happen."
 0001499:face_cath
 Cas
@@ -6534,7 +6534,7 @@ There will be times I will lose."
 "...You're very strong."
 0001501:face_cath
 Cas
-"If I wasn't, 
+"If I wasn't,
 I would never think of being a mercenary."
 0001502:face_cath
 Cas
@@ -6871,15 +6871,15 @@ Cidoles
 I'm Infernal Cidoles."
 0001591:face4k
 Cidoles
-"I controlled the flames around the world 
-to wipe out millions of humans and..." 
+"I controlled the flames around the world
+to wipe out millions of humans and..."
 0001592:face4k
 Cidoles
 "I am also one of the elite four."
 0001593:face2
 \N[001]
 "Stop the eruption this instant!
-You can't spread anymore 
+You can't spread anymore
 disasters around the world!"
 0001594:face4k
 Cidoles
@@ -6887,13 +6887,13 @@ Cidoles
 Hee, hee, hee..."
 0001595:face4k
 Cidoles
-"Are you the two 
+"Are you the two
 who defeated my little sister Qua?
 Look at you all worked up to get to the volcano."
 0001596:face4k
 Cidoles
 "I'm not stopping the eruption.
-I'm doing this to contribute my energy 
+I'm doing this to contribute my energy
 to my demon lord."
 0001597:face2
 \N[001]
@@ -6946,7 +6946,7 @@ At least, I'm not."
 0001610:face4k
 Cidoles
 "Qua gave it her all...
-And yet you defeated her 
+And yet you defeated her
 without breaking a sweat."
 0001611:face_plyr
 \N[002]
@@ -6958,7 +6958,7 @@ I know exactly what happened to Qua
 as if it happened to me."
 0001613:face_plyr
 \N[002]
-"I see...so that menas, You were peeping on me 
+"I see...so that menas, You were peeping on me
 and Qua having steamy hot sex.
 You perv."
 0001614:face4k
@@ -6990,7 +6990,7 @@ Cidoles
 "Ah...!!"
 0001622:face_plyr
 \N[002]
-"And you were masturbating while watching, 
+"And you were masturbating while watching,
 didn't you?
 Creeper."
 0001623:face4k
@@ -7025,7 +7025,7 @@ What are you...?"
 0001631:face_plyr
 \N[002]
 "...That stinks.
-You didn't wash your hands after masturbating, 
+You didn't wash your hands after masturbating,
 did you?"
 0001632:face3
 \N[001]
@@ -7036,7 +7036,7 @@ Cidoles
 Dieeeeeeeeeee!!"
 0001634:face_plyr2
 \N[002]
-"Hmm, I've got to do something about 
+"Hmm, I've got to do something about
 her fire attacks...
 Our equipment now can't handle all of it."
 0001635:face4k
@@ -7059,7 +7059,7 @@ Cidoles
 Dieeeeeeeeeee!!"
 0001640:face_plyr2
 \N[002]
-"Hmm, I've got to do something about 
+"Hmm, I've got to do something about
 her fire attacks...
 Our equipment now can't handle all of it."
 0001641:face4k
@@ -7080,11 +7080,11 @@ Cidoles
 Stop laughing!"
 0001645:face_plyr
 \N[002]
-"You're not going to worry about 
+"You're not going to worry about
 masturbating anymore..."
 0001646:face_plyr
 \N[002]
-"...after the really embarrassing things 
+"...after the really embarrassing things
 I'm going to do to you."
 0001647:face_plyr
 \N[002]
@@ -7210,7 +7210,7 @@ Item Shop Owner
 We just stocked Rune Wings for sale."
 0001678:
 Item Shop Owner
-"With this, 
+"With this,
 you can fly to anywhere you've already been!"
 0001679:
 Item Shop Owner
@@ -7230,7 +7230,7 @@ Item Shop Owner
 Can I get you anything?"
 0001683:
 Item Shop Owner
-"Oh! 
+"Oh!
 \N[001] from next door turned into a total slut!
 Aye yai yai!!"
 0001684:face
@@ -7771,7 +7771,7 @@ Don't skip
 Событие №:9
 Событие №:10
 0001846:
-The bush is in the way 
+The bush is in the way
 and you can't move forward...
 0001847:face_plyr
 \N[002]
@@ -7807,7 +7807,7 @@ all these bushes that we could borrow..."
 「藪が邪魔で前に進めないな……
 Событие №:16
 0001856:
-The bush is in the way 
+The bush is in the way
 and you can't move forward...
 0001857:face_plyr
 \N[002]
@@ -7823,7 +7823,7 @@ all these bushes that we could borrow..."
 "Maybe someone working on their garden?"
 Событие №:17
 0001860:
-The bush is in the way 
+The bush is in the way
 and you can't move forward...
 0001861:face_plyr
 \N[002]
@@ -8171,12 +8171,12 @@ a very dense forest."
 "This is...the Maze Forest of Goywood...!"
 0001972:face3
 \N[001]
-"There might be monsters hiding in shadows 
-looking to attack us. 
+"There might be monsters hiding in shadows
+looking to attack us.
 We should be careful moving forward."
 Событие №:110
 0001973:
-The bush is in the way 
+The bush is in the way
 and you can't move forward...
 0001974:face_plyr
 \N[002]
@@ -8192,7 +8192,7 @@ all these bushes that we could borrow..."
 "Maybe someone working on their garden?"
 Событие №:111
 0001977:
-The bush is in the way 
+The bush is in the way
 and you can't move forward...
 0001978:face_plyr
 \N[002]
@@ -8335,7 +8335,7 @@ but please take it as a token of my gratitude."
 "Thank you."
 0002010:face_plyr
 \N[002]
-"It's a little dirty now, but maybe we can get 
+"It's a little dirty now, but maybe we can get
 someone to wash and clean it."
 0002011:
 "I'm really grateful for what you two did.
@@ -8354,7 +8354,7 @@ I got all worked up knowing Cas is safe now!"
 0002015:face_plyr
 \N[002]
 "...Yeah. Well if you two do get to hang out,
-take good care of her." 
+take good care of her."
 0002016:
 "Of course!"
 0002017:
@@ -8402,7 +8402,7 @@ Why couldn't I have died with her...?!"
 And what would come out of dying together?"
 0002029:face_plyr
 \N[002]
-"That's just a meaningless death. 
+"That's just a meaningless death.
 It's worthless."
 0002030:face
 \N[001]
@@ -8502,7 +8502,7 @@ Some things are worth living for!"
 Событие №:9
 0002051:face
 \N[001]
-"This is a very big city. 
+"This is a very big city.
 I never imagined a city this big
 would be in the middle of the desert."
 0002052:face_plyr
@@ -8511,7 +8511,7 @@ would be in the middle of the desert."
 Is there a festival going on or something?"
 0002053:face
 \N[001]
-"I've heard of a large trading city 
+"I've heard of a large trading city
 in the Southern region before, and here it is!"
 0002054:face_plyr
 \N[002]
@@ -8569,7 +8569,7 @@ But that dude really pissed me off."
 It's so sweet it can clear anyone's mind."
 0002066:face_plyr
 \N[002]
-"Huh... If I find someone looking brain dead, 
+"Huh... If I find someone looking brain dead,
 I'll let them have this."
 Событие №:18
 0002067:
@@ -8577,7 +8577,7 @@ I'll let them have this."
 It's so sweet it can clear anyone's mind."
 0002068:face_plyr
 \N[002]
-"Huh... If I find someone looking brain dead, 
+"Huh... If I find someone looking brain dead,
 I'll let them have this."
 Событие №:19
 Событие №:20
@@ -8591,7 +8591,7 @@ I'll let them have this."
 It's so sweet it can clear anyone's mind."
 0002070:face_plyr
 \N[002]
-"Huh... If I find someone looking brain dead, 
+"Huh... If I find someone looking brain dead,
 I'll let them have this."
 Событие №:26
 0002071:face_plyr
@@ -8693,7 +8693,7 @@ Not yet
 It's so sweet it can clear anyone's mind."
 0002084:face_plyr
 \N[002]
-"Huh... If I find someone looking brain dead, 
+"Huh... If I find someone looking brain dead,
 I'll let them have this."
 0002085:
 "Oh? The slave market owner sent you?
@@ -8706,7 +8706,7 @@ It's so sweet this will keep your mind very sharp."
 \N[002]
 "Ahhh...
 So this is swimwear for women, eh...?
-I'll make \N[001] wear this...he he he!" 
+I'll make \N[001] wear this...he he he!"
 0002088:
 By purchasing the Skimpy Bikini,
 you learned the skill, 'Help Dress Up'!
@@ -8717,7 +8717,7 @@ If so, I shouldn't keep these out of sight."
 \N[002]
 "Ahhh...
 So this is swimwear for women, eh...?
-I'll make \N[001] wear this...he he he!" 
+I'll make \N[001] wear this...he he he!"
 0002091:
 By purchasing the Skimpy Bikini,
 you learned the skill, 'Help Dress Up'!
@@ -8737,7 +8737,7 @@ you learned the skill, 'Help Dress Up'!
 So sweet....keeps you sharp..."
 0002093:face_plyr
 \N[002]
-"Huh... If I find someone looking brain dead, 
+"Huh... If I find someone looking brain dead,
 I'll let them have this."
 Событие №:90
 0002094:
@@ -8783,7 +8783,7 @@ You must be heaven sent!"
 "You're exaggerating."
 0002107:
 "I was prepared to pay a fortune had I found this
-in a shop. 
+in a shop.
 Please take all the gold I gathered!"
 0002108:
 You received 5000\G from the man!
@@ -8861,7 +8861,7 @@ Wish I could live in a place like that for once..."
 Look at all the crates."
 0002120:face_plyr
 \N[002]
-"It's a trading city after all. They must be 
+"It's a trading city after all. They must be
 coming in from all regions imaginable."
 0002121:face3
 \N[001]
@@ -9097,7 +9097,7 @@ when Seto broke him out of prison."
 "He will be coming for the elite four now."
 0002181:face_plyr
 \N[002]
-"But the last time we saw him, he was terrified 
+"But the last time we saw him, he was terrified
 of the elite four and shriveled up.
 Like an old prune."
 0002182:face3
@@ -9122,7 +9122,7 @@ What is it with you?"
 "Alright, break it up.(clap clap clap clap)
 don't get in a fight here."
 0002188:
-(It's happening...Godel's demonic manipulation is 
+(It's happening...Godel's demonic manipulation is
 taking over...or rather his demon cock is!)
 0002189:
 "Godel is no strong warrior.
@@ -9145,7 +9145,7 @@ I mustn't have sex with \N[001] in the inns?"
 "Precisely."
 0002194:face_plyr
 \N[002]
-"You know, I was wondering from the start of 
+"You know, I was wondering from the start of
 this conversation but who are you?"
 0002195:
 "Me?
@@ -9335,10 +9335,10 @@ nyup, nyup."
 Событие №:1
 0002245:
 "Welcome.
-Look at the masterful craftwork of us sand dwellers." 
+Look at the masterful craftwork of us sand dwellers."
 0002246:
 "Is that equipment going to be enough for you?
-Look at the masterful craftwork of us sand dwellers." 
+Look at the masterful craftwork of us sand dwellers."
 Событие №:3
 
 
@@ -9455,11 +9455,11 @@ Okay. And I'll return the empty bottle...there."
 0002274:face_plyr3
 \N[002]
 "Hey now.
-I'm not crazy enough to get outside 
+I'm not crazy enough to get outside
 completely naked."
 0002275:face_plyr
 \N[002]
-"I'll get scolded for getting out this way. 
+"I'll get scolded for getting out this way.
 Definitely."
 Событие №:8
 Событие №:9
@@ -9511,7 +9511,7 @@ Not now
 Событие №:13
 0002288:face_plyr
 \N[002]
-"I'll get scolded for getting out this way. 
+"I'll get scolded for getting out this way.
 Definitely."
 Событие №:14
 0002289:face
@@ -9565,11 +9565,11 @@ No need
 You bought a chilled juice
 0002293:face_plyr3
 \N[002]
-"That chair there is open. 
+"That chair there is open.
 I'll have this there..."
 0002294:face_plyr
 \N[002]
-"That chair there is open. 
+"That chair there is open.
 I'll have this there..."
 0002295:face_plyr3
 \N[002]
@@ -9589,11 +9589,11 @@ No need
 You bought a chilled juice
 0002300:face_plyr3
 \N[002]
-"That chair there is open. 
+"That chair there is open.
 I'll have this there..."
 0002301:face_plyr
 \N[002]
-"That chair there is open. 
+"That chair there is open.
 I'll have this there..."
 0002302:face_plyr3
 \N[002]
@@ -9649,7 +9649,7 @@ I wish I was there for that."
 "Really...
 I wish I was there for that."
 0002317:
-"I wish there's a cute girl 
+"I wish there's a cute girl
 out there who'd be willing to wash my back."
 0002318:face_plyr3
 \N[002]
@@ -9710,12 +9710,12 @@ We have a request."
 0002333:face4k
 Qua
 "A request...?
-You expect a demon like me 
+You expect a demon like me
 answer to a human's request?"
 0002334:face4k
 Qua
-"Listen. Don't get cocky just because you humans 
-defeated me once. If we fought again, 
+"Listen. Don't get cocky just because you humans
+defeated me once. If we fought again,
 I'm definitely going to win."
 0002335:face_plyr
 \N[002]
@@ -9779,7 +9779,7 @@ I can do it."
 0002352:face2
 \N[001]
 "See \N[002]!
-The fate of the villagers 
+The fate of the villagers
 hangs on your attitude!"
 0002353:face_plyr
 \N[002]
@@ -9834,7 +9834,7 @@ Let me enjoy the hot springs now."
 0002367:face_plyr
 \N[002]
 "You're not off the hook yet.
-Aren't you forgetting something 
+Aren't you forgetting something
 you need to give me?"
 0002368:face4k
 Qua
@@ -10027,7 +10027,7 @@ The cave is covered in ice."
 "I think I'm freezing."
 0002419:face_plyr
 \N[002]
-(Especially if you're forced 
+(Especially if you're forced
 to be in that outfit...)
 0002420:face
 \N[001]
@@ -10035,7 +10035,7 @@ to be in that outfit...)
 This must be the Zord Ice Cavern."
 0002421:face
 \N[001]
-"This should take us all the way 
+"This should take us all the way
 to the Melchior Planes."
 0002422:face_plyr
 \N[002]
@@ -10044,7 +10044,7 @@ So the snowy planes Seto was talking about..."
 0002423:face2
 \N[001]
 "She must mean the Melchior Planes...
-That's where the demon lord's castle 
+That's where the demon lord's castle
 Mithra Palace is..."
 Событие №:22
 0002424:
@@ -10204,7 +10204,7 @@ Please wake up!"
 "Ugh...umph..."
 0002464:face_plyr
 \N[002]
-"He might of fallen 
+"He might of fallen
 after being attacked by monsters."
 0002465:face
 \N[001]
@@ -10212,14 +10212,14 @@ after being attacked by monsters."
 0002466:face_plyr
 \N[002]
 "I mean,
-We're gonna have to carry this guy 
+We're gonna have to carry this guy
 out of here..."
 0002467:face
 \N[001]
 "I-I'll help too!"
 0002468:face_plyr
 \N[002]
-"Yup, let's get this guy 
+"Yup, let's get this guy
 to his little brother pronto."
 0002469:
 \N[002] hoisted the man up!
@@ -10407,11 +10407,11 @@ Let's investigate this floor."
 the ruins of an ancient civilization."
 0002515:face_plyr
 \N[002]
-"I didn't think 
+"I didn't think
 this world would also have pyramids."
 0002516:face3
 \N[001]
-"There's ancient spells 
+"There's ancient spells
 and markings on the walls.
 Maybe these are charms to prevent tomb robbers."
 0002517:face_plyr
@@ -10789,28 +10789,28 @@ Audendo magnus tegitur timor."
 "We're the ones who're going to stop you...!"
 0002613:face3
 \N[001]
-"Be careful \N[002]. I sense an evil magic 
-emanating from Seto's body. If you move 
+"Be careful \N[002]. I sense an evil magic
+emanating from Seto's body. If you move
 too carelessly, she will rip us in shreds."
 0002614:face_plyr
 \N[002]
-"She's a different atmosphere 
+"She's a different atmosphere
 than the other elite four."
 0002615:face3
 \N[001]
-"I heard Seto is originally a god 
+"I heard Seto is originally a god
 from another dimension."
 0002616:face4
 \N[001]
-"Strangely, she joined to be a servant 
-of the demon lord, and her powers are greater 
+"Strangely, she joined to be a servant
+of the demon lord, and her powers are greater
 than the demon lord."
 0002617:face4k
 Seto
 "Corruption of all matter is my existence..."
 0002618:face4k
 Seto
-"The flooding chaos is the nectar 
+"The flooding chaos is the nectar
 that nourishes me...
 To spread corruption and chaos is my purpose..."
 0002619:face4k
@@ -10820,7 +10820,7 @@ and bring balance upon us
 you shall become offerings to me..."
 0002620:face_plyr2
 \N[002]
-"Hmm, We've got to do something about 
+"Hmm, We've got to do something about
 her dark attacks...
 Our equipment can't handle it all."
 0002621:face4k
@@ -10830,7 +10830,7 @@ feeble humans...
 Behold the wrath of the goddess..."
 0002622:face_plyr2
 \N[002]
-"Hmm, We've got to do something about 
+"Hmm, We've got to do something about
 her dark attacks...
 Our equipment can't handle it all."
 0002623:face4k
@@ -10879,17 +10879,17 @@ Seto
 "...!"
 0002637:face4k
 Seto
-"Passed the great West river, 
-and further beyond that, there is a cave 
+"Passed the great West river,
+and further beyond that, there is a cave
 where ice falls under a mountain."
 0002638:face4k
 Seto
-"Through the cave you will enter 
-a frozen closed land. Your final destination 
+"Through the cave you will enter
+a frozen closed land. Your final destination
 to stop my lord from reviving..."
 0002639:face4k
 Seto
-"The Mithra Palace, 
+"The Mithra Palace,
 once the lord's castle is there..."
 0002640:face_plyr
 \N[002]
@@ -10899,8 +10899,8 @@ once the lord's castle is there..."
 "...Why would you tell us that?"
 0002642:face4k
 Seto
-"... because of my contract 
-with master \N[002] of course. 
+"... because of my contract
+with master \N[002] of course.
 Now take this..."
 0002643:
 Seto's emblem is engraved into your soul
@@ -11046,7 +11046,7 @@ going in a place like this, ever!"
 Событие №:27
 0002673:
 Barker
-"We're getting a rush of customers lately. 
+"We're getting a rush of customers lately.
 What a delight♥
 I'm counting on your good work \N[001] honey♥"
 0002674:face3
@@ -11117,7 +11117,7 @@ We should go to the guard post first."
 Событие №:53
 0002686:face_plyr
 \N[002]
-"If I'm sly, 
+"If I'm sly,
 I might not get caught stealing this time..."
 0002687:Варианты выбора:
 Steal
@@ -11144,7 +11144,7 @@ Get over here!"
 Событие №:55
 0002694:face
 \N[001]
-"This is the statue of 
+"This is the statue of
 the great wizard of this city."
 0002695:face
 \N[001]
@@ -11155,7 +11155,7 @@ actually."
 "What's that red sparkly thing there?"
 0002697:face2
 \N[001]
-"That's the siren orb 
+"That's the siren orb
 to tell us the demon lord is back."
 0002698:face2
 \N[001]
@@ -11186,7 +11186,7 @@ Cooool."
 0002703:face
 \N[001]
 "We draw water from the Belise Lake to the east.
-The water here is popular 
+The water here is popular
 for being clean and tasty."
 0002704:face
 \N[001]
@@ -11201,7 +11201,7 @@ I might want to give it a try."
 0002706:face
 \N[001]
 "The guard post is right in front of you.
-The tower with the red pointed roof 
+The tower with the red pointed roof
 is its trademark. Let's go over there"
 Событие №:61
 Событие №:62
@@ -11264,11 +11264,11 @@ If things go my way.)
 0002716:face
 \N[001]
 "Being in a boat on such a nice day...
-almost makes you forget the demon lord 
+almost makes you forget the demon lord
 is coming back."
 0002717:face_plyr
 \N[002]
-(Going on a date with a girl 
+(Going on a date with a girl
 on a boat sure is fun.
 Makes me a winner...!)
 0002718:face_plyr
@@ -11319,8 +11319,8 @@ You will find spots activated by certain actions."
 Событие №:102
 0002726:face
 \N[001]
-"Usually I come listen to the nice sound 
-of this fountain and take a seat on that bench 
+"Usually I come listen to the nice sound
+of this fountain and take a seat on that bench
 to read a book."
 0002727:face_plyr
 \N[002]
@@ -11411,7 +11411,7 @@ Now we can go deeper into the forest!"
 0002741:face
 \N[001]
 "Wow.
-I've never been to another city 
+I've never been to another city
 outside of Asgard."
 0002742:face_plyr
 \N[002]
@@ -11469,7 +11469,7 @@ He has his head in his hands..."
 "Oh...
 Welcome to the Melchior Church."
 0002751:face5
-"I have been training 
+"I have been training
 in this untouched sanctuary.
 I can purify you of your sins..."
 0002752:face_plyr2
@@ -11480,7 +11480,7 @@ It is a matter of life or death."
 \N[001]
 "What happened?"
 0002754:face_plyr2
-"The Zord Ice Cavern 
+"The Zord Ice Cavern
 you went through to come here,
 my elder brother went missing in there."
 0002755:face_plyr2
@@ -11488,13 +11488,13 @@ my elder brother went missing in there."
 heads out to get food and supplies
 from the outside world..."
 0002756:face_plyr2
-"Usually it takes him two 
-to three days to come back, 
-but it's already a week. 
+"Usually it takes him two
+to three days to come back,
+but it's already a week.
 Something must have happened."
 0002757:face_plyr
 \N[002]
-"Maybe he got addicted 
+"Maybe he got addicted
 to the whores of the outside world
 and doesn't want to come back."
 0002758:face5
@@ -11510,7 +11510,7 @@ Sexually."
 "....................."
 0002762:face_plyr
 \N[002]
-"A brother-sister relationship...? 
+"A brother-sister relationship...?
 That's kind of hot."
 0002763:face5
 "Embarrassingly, I'm the little brother."
@@ -11518,11 +11518,11 @@ That's kind of hot."
 \N[002]
 "..............."
 0002765:face_plyr2
-"I take care of my brother's strong dick 
+"I take care of my brother's strong dick
 with my tongue..."
 0002766:face_plyr2
-"...and he takes care of my perverted butthole 
-with his cock. So there's no way 
+"...and he takes care of my perverted butthole
+with his cock. So there's no way
 he'd be in a brothel leaving me behind."
 0002767:face_plyr2
 \N[002]
@@ -11540,7 +11540,7 @@ Would you help save my big brother?"
 I would like to help him."
 0002771:face5
 "Thank you very much!
-I'm sorry to cause you trouble, 
+I'm sorry to cause you trouble,
 but I beg for your help."
 0002772:face_plyr2
 "Big brother.
@@ -11564,11 +11564,11 @@ Just a little bit, okay? Here!"
 You got the special lube!
 0002778:face_plyr
 \N[002]
-"I'd like to slather this on \N[001] 
-in her butthole... but there's not much. 
+"I'd like to slather this on \N[001]
+in her butthole... but there's not much.
 I'd better use it somewhere else."
 0002779:face5
-"Now... It's time I show you 
+"Now... It's time I show you
 what my training can achieve."
 0002780:face5
 "I will purify you of your sins.
@@ -11718,7 +11718,7 @@ Restore Health
 Warp
 Do Nothing
 0002815:
-There are no other crystals active 
+There are no other crystals active
 inside the palace...
 Событие №:43
 0002816:
@@ -11727,15 +11727,15 @@ inside the palace...
 0002817:face
 \N[001]
 "I sense the presence of a strong evil magic...
-This is, where the demon lord's castle 
+This is, where the demon lord's castle
 used to be...!"
 0002818:face_plyr
 \N[002]
 "It's like we finally made it, isn't it?"
 0002819:face2
 \N[001]
-"If the demon lord should resurrect, 
-it would be here... There's a dreading 
+"If the demon lord should resurrect,
+it would be here... There's a dreading
 atmosphere surrounding this place."
 0002820:face_plyr
 \N[002]
@@ -11751,7 +11751,7 @@ We came so far on our journey to come here..."
 "M-My legs won't stop shaking..."
 0002823:face4
 \N[001]
-"Rod would be laughing at me for looking 
+"Rod would be laughing at me for looking
 this foolish.
 And my great ancestor Belg..."
 0002824:face_plyr
@@ -12055,13 +12055,13 @@ Restore Health
 Warp
 Do Nothing
 0002887:
-There are no other crystals active 
+There are no other crystals active
 inside the palace...
 Событие №:35
 0002888:face2
 \N[001]
 "Wait a second.
-There's an elite four you can't summon 
+There's an elite four you can't summon
 right now, right?"
 0002889:face_plyr
 \N[002]
@@ -12081,7 +12081,7 @@ but I guess we head back for now."
 "Y-Yes. Let's do that."
 0002893:face4
 \N[001]
-(Not all the elite four vowed loyalty 
+(Not all the elite four vowed loyalty
 to master Godel...)
 0002894:face3
 \N[001]
@@ -12091,7 +12091,7 @@ master Godel must cuckold all of them...!)
 0002895:face2
 \N[001]
 "Wait a second.
-There's an elite four you can't summon 
+There's an elite four you can't summon
 right now, right?"
 0002896:face_plyr
 \N[002]
@@ -12111,7 +12111,7 @@ but I guess we head back for now."
 "Y-Yes. Let's do that."
 0002900:face4
 \N[001]
-(Not all the elite four vowed loyalty 
+(Not all the elite four vowed loyalty
 to master Godel...)
 0002901:face3
 \N[001]
@@ -12121,7 +12121,7 @@ master Godel must cuckold all of them...!)
 0002902:face2
 \N[001]
 "Wait a second.
-There's an elite four you can't summon 
+There's an elite four you can't summon
 right now, right?"
 0002903:face_plyr
 \N[002]
@@ -12141,7 +12141,7 @@ but I guess we head back for now."
 "Y-Yes. Let's do that."
 0002907:face4
 \N[001]
-(Not all the elite four vowed loyalty 
+(Not all the elite four vowed loyalty
 to master Godel...)
 0002908:face3
 \N[001]
@@ -12189,7 +12189,7 @@ all of you."
 0002915:face4k
 Seto
 "Finally,
-you have come this far 
+you have come this far
 ...my demon lord."
 0002916:face
 \N[001]
@@ -12221,19 +12221,19 @@ Seto
 "It's understandable you think that way."
 0002923:face4k
 Seto
-"400 years ago, when the holy wizard Belg 
+"400 years ago, when the holy wizard Belg
 defeated you, I put a curse on you."
 0002924:face4k
 Seto
 A curse that sealed your memories,
-and send you to be reincarnated 
+and send you to be reincarnated
 in another world..."
 0002925:face_plyr
 \N[002]
 "...Wha?"
 0002926:face4k
 Seto
-"If I hadn't done so, even if you were revived, 
+"If I hadn't done so, even if you were revived,
 Belg's offspring would notice
 and killed you while you were still weak."
 0002927:face4k
@@ -12244,36 +12244,36 @@ Seto
 "...What?"
 0002929:face4k
 Seto
-"Now that both Belg and Rod are gone, there's 
+"Now that both Belg and Rod are gone, there's
 only one familiar powerful enough to defeat
 the demon lord, which is demon lord himself."
 0002930:face4k
 Seto
-"If so, I knew the summoning spell used by 
-the Belg family will bring back my demon lord to 
+"If so, I knew the summoning spell used by
+the Belg family will bring back my demon lord to
 this world once again..."
 0002931:face
 \N[001]
-"...You took the strategy of fighting alongside 
-a familiar my great ancestor used, and used it 
+"...You took the strategy of fighting alongside
+a familiar my great ancestor used, and used it
 against us..."
 0002932:face4k
 Seto
-"I used the method that destroyed you to bring 
-you back. ...He he, this has always been my plan 
+"I used the method that destroyed you to bring
+you back. ...He he, this has always been my plan
 as the goddess of corruption."
 0002933:face4k
 Zeldia
 "That's why we didn't notice at first.
-That master \N[002] was the reincarnated 
+That master \N[002] was the reincarnated
 demon lord... But..."
 0002934:face4k
 Cidoles
-"There's nothing in this world that makes us 
+"There's nothing in this world that makes us
 climax except for our demon lord!"
 0002935:face_plyr
 \N[002]
-"...hmph... I was trying to play dumb, 
+"...hmph... I was trying to play dumb,
 looking like I didn't know,
 but I guess I was right all along..."
 0002936:face_plyr
@@ -12282,8 +12282,8 @@ but I guess I was right all along..."
 there's no way you would have helped us."
 0002937:face4k
 Qua
-"That's right. I helped because I knew you were 
-my demon lord. It's not because I like you or 
+"That's right. I helped because I knew you were
+my demon lord. It's not because I like you or
 something like that."
 0002938:face4k
 Seto
@@ -12297,7 +12297,7 @@ Zeldia
 "And rule the world once again!"
 0002941:face4k
 Cidoles
-"Maybe we could kill about 10 million people 
+"Maybe we could kill about 10 million people
 this time!"
 0002942:face4k
 Qua
@@ -12330,7 +12330,7 @@ Seto
 that you were...the demon lord..."
 0002951:face
 \N[001]
-"But...I couldn't stop our journey. Even if I 
+"But...I couldn't stop our journey. Even if I
 did, I felt the elite four would bring you back
 as the demon lord...and...and..."
 0002952:face
@@ -12367,7 +12367,7 @@ Cidoles
 "Huh? What?!"
 0002962:face_plyr
 \N[002]
-"What yourself. If I'm the demon lord, 
+"What yourself. If I'm the demon lord,
 I'm your boss.
 That means I have the right to fire you."
 0002963:face_plyr
@@ -12378,8 +12378,8 @@ Cidoles
 "Why am I being fired?!"
 0002965:face_plyr
 \N[002]
-"You just publicly called your superior scum and 
-you think you still have a place 
+"You just publicly called your superior scum and
+you think you still have a place
 in the workplace?"
 0002966:face_plyr
 \N[002]
@@ -12401,7 +12401,7 @@ Seto
 0002971:face_plyr
 \N[002]
 "There's always one.
-That pompous type who gets all up 
+That pompous type who gets all up
 in the boss's face. I hate those types."
 0002972:face_plyr
 \N[002]
@@ -12421,7 +12421,7 @@ Qua
 0002977:face_plyr
 \N[002]
 "Huh? Say that again? Whaaa? Thanks to Setooo?
-I could have come back 
+I could have come back
 without her help...! Probably."
 0002978:face_plyr
 \N[002]
@@ -12445,8 +12445,8 @@ Not only have you no regard for the demon army,
 but you're firing all your subordinates?"
 0002983:face_plyr
 \N[002]
-"I'm so cruel...! I know I'm being absolutely 
-unfair. But I think...you need to watch 
+"I'm so cruel...! I know I'm being absolutely
+unfair. But I think...you need to watch
 your language missy."
 0002984:face_plyr
 \N[002]
@@ -12459,12 +12459,12 @@ So what?"
 0002986:face_plyr
 \N[002]
 "So what...? Really?
-Do you know who let you call yourself 
+Do you know who let you call yourself
 the elite four?"
 0002987:face_plyr
 \N[002]
 "You think you can go out there without
-the demon lord badge of honor, 
+the demon lord badge of honor,
 you tell me right now!!"
 0002988:face
 \N[001]
@@ -12488,7 +12488,7 @@ Qua
 0002993:face4k
 Zeldia
 "You do understand...
-there's no way you're going back alive 
+there's no way you're going back alive
 after this...!!"
 0002994:face_plyr
 \N[002]
@@ -12500,7 +12500,7 @@ Now it's really time to buckle up!"
 0002996:face_plyr
 \N[002]
 "\N[001] and I...
-Will show them the power of a familiar 
+Will show them the power of a familiar
 and his master...!"
 0002997:face
 \N[001]
@@ -12532,8 +12532,8 @@ Nay...\N[001]'s familiar!!"
 Are you...serious...?"
 0003005:face4k
 Seto
-"That is a splendid idea. The offspring of Belg 
-joining the demon army will bring our army 1000, 
+"That is a splendid idea. The offspring of Belg
+joining the demon army will bring our army 1000,
 no, 2000 years of prosperity."
 0003006:face4k
 Zeldia
@@ -12546,7 +12546,7 @@ she's a little strong so
 I don't mind welcoming you."
 0003008:face4k
 Qua
-"Y-You can have sex with my demon lord once a 
+"Y-You can have sex with my demon lord once a
 week.
 Not any more."
 0003009:face_plyr
@@ -12567,7 +12567,7 @@ If you choose to become the demon lord again,
 I have to fight you!"
 0003013:face4k
 Seto
-"My lord...she is the bell that toles your 
+"My lord...she is the bell that toles your
 awakening. Defeat her with your power
 and prove to us you have finally returned."
 0003014:face4
@@ -12612,7 +12612,7 @@ Seto
 You got a pile of Elixir!
 0003027:face4k
 Seto
-"If you lose with all this, 
+"If you lose with all this,
 you're no demon lord of mine.
 You will be just a big misunderstanding of ours."
 0003028:face_plyr
@@ -12621,8 +12621,8 @@ You will be just a big misunderstanding of ours."
 I'm not losing anymore..."
 0003029:face4
 \N[001]
-"\N[002]...that's your true power...! 
-\|Here I come!" 
+"\N[002]...that's your true power...!
+\|Here I come!"
 0003030:face_plyr
 \N[002]
 "Huff...
@@ -13246,7 +13246,7 @@ Let's check in as soon as possible."
 0003170:face_plyr
 \N[002]
 "Wee yoo...
-I couldn't get enough of your ass 
+I couldn't get enough of your ass
 on our trip \N[001]."
 0003171:
 "\$Oh, did you come out the hot spring without clothes?!
@@ -13404,7 +13404,7 @@ Take those panties off!!"
 This is making me excited...
 Mmmf♥"
 0003208:
-The woman is fondling her own crotch 
+The woman is fondling her own crotch
 with her fingers...
 Событие №:15
 0003209:
@@ -13414,7 +13414,7 @@ with her fingers...
 "Master Godel?"
 0003211:
 "Yes.
-The great noble Godel is responsible 
+The great noble Godel is responsible
 for making this city.
 Rumour says he has the devil's penis."
 0003212:face_plyr
@@ -13498,7 +13498,7 @@ I really did come back."
 Событие №:6
 0003232:face_plyr
 \N[002]
-"It's the food I didn't finish... 
+"It's the food I didn't finish...
 It's still warm."
 0003233:face_plyr
 \N[002]
@@ -13538,7 +13538,7 @@ Don't open it
 0003237:face
 \N[001]
 "W-Wait a moment.
-A-Am I really going into 
+A-Am I really going into
 the men's side like this?"
 0003238:
 \N[002]
@@ -13568,7 +13568,7 @@ did I keep you waiting?"
 0003244:face
 \N[001]
 "Okay.
-Now that we're refreshed, 
+Now that we're refreshed,
 we should continue our journey!"
 Событие №:15
 0003245:face
@@ -13663,7 +13663,7 @@ We should go home now!"
 Событие №:27
 0003262:
 Barker
-"We're getting a rush of customers lately. 
+"We're getting a rush of customers lately.
 What a delight♥
 I'm counting on your good work \N[001] honey♥"
 0003263:face3
@@ -13830,7 +13830,7 @@ I'm not what I was once."
 0003283:face4k
 ???
 "I'm Zeldia the wielder of the Unholy Sword.
-People call me 
+People call me
 the Unholy Swords Wielder Zedia..."
 0003284:face2
 \N[001]
@@ -13887,7 +13887,7 @@ Stick your meatstick into Zeldia
 "Whew..."
 0003298:face_plyr3
 \N[002]
-"We took out one of the elite four, 
+"We took out one of the elite four,
 shall we go home?"
 0003299:face3
 \N[001]
@@ -13904,7 +13904,7 @@ Please put your clothes on."
 "Oh, right..."
 0003303:face_plyr
 \N[002]
-"G-Good thing we won. Anyway, the elite four is 
+"G-Good thing we won. Anyway, the elite four is
 down to the elite three.
 Let's keep up the work."
 0003304:face3
@@ -13921,7 +13921,7 @@ drizzling out from between her legs."
 0003307:face_plyr
 \N[002]
 "Hmmm.
-I don't want her glaring at me 
+I don't want her glaring at me
 for leaving her here."
 0003308:face4k
 Zeldia
@@ -13948,7 +13948,7 @@ From here on I must serve to master \N[002]."
 "Contract?"
 0003315:face4k
 Zeldia
-"Demons must serve to who defeated and 
+"Demons must serve to who defeated and
 kissed them. And if you go as far as having sex,
 we submit our body and soul to them."
 0003316:face2
@@ -13980,7 +13980,7 @@ Zeldia
 Next we're in battle maybe I'll call her."
 0003324:face_plyr
 \N[002]
-"Let's go back to Asgard 
+"Let's go back to Asgard
 and report to the commander.
 I'm sure a big reward is waiting for us."
 Событие №:5
@@ -14027,11 +14027,11 @@ the same statue that's in the city but..."
 0003328:face_plyr
 \N[002]
 "There's really nothing going on with it.
-I thought we took care of 
+I thought we took care of
 most of the trigger events."
 0003329:face2
 \N[001]
-"Hmmm... I think THAT person 
+"Hmmm... I think THAT person
 might know something about it."
 0003330:face_plyr
 \N[002]
@@ -14058,12 +14058,12 @@ I was the familiar to the holy wizard Belg."
 So you're the...!"
 0003336:face_plyr
 \N[002]
-"Why are you still alive 
+"Why are you still alive
 when Belg is already gone?"
 0003337:
 Rod
 "I'm not a human...I'm an elf.
-An elf's lifespan is far longer 
+An elf's lifespan is far longer
 than that of a human's."
 0003338:face_plyr
 \N[002]
@@ -14071,14 +14071,14 @@ than that of a human's."
 0003339:face3
 \N[001]
 "Familiar summons don't always call a human in.
-On the contrary, 
+On the contrary,
 it's rarer that a human is called."
 0003340:
 Rod
 "Are you two perhaps..."
 0003341:face2
 \N[001]
-"I'm the descendant 
+"I'm the descendant
 of the holy wizard Belg, \N[001].
 This is my familiar \N[002]."
 0003342:
@@ -14119,8 +14119,8 @@ and filtered it into holy water."
 "Incredible...!"
 0003351:
 Rod
-"In this most holy place, I can use my remaining 
-powers creating the Rainbow Orb that will cast 
+"In this most holy place, I can use my remaining
+powers creating the Rainbow Orb that will cast
 a rainbow bridge."
 0003352:face_plyr
 \N[002]
@@ -14151,7 +14151,7 @@ I'm glad I could give this to my master's...descendant..."
 to make this."
 0003360:face2
 \N[001]
-"Though it was to stop the demon lord 
+"Though it was to stop the demon lord
 from resurrecting...
 He risked his life..."
 0003361:face_plyr
@@ -14167,12 +14167,12 @@ That's why he needed to come to this place."
 sad."
 0003364:face_plyr
 \N[002]
-"I'm just wondering 
+"I'm just wondering
 how we're supposed to use this."
 0003365:face
 \N[001]
 "I wonder...
-But, I think when the time comes 
+But, I think when the time comes
 we will know what to do."
 0003366:face_plyr
 \N[002]
@@ -14259,8 +14259,8 @@ This is suicide jumping inside a burning house."
 Событие №:62
 0003369:face_plyr
 \N[002]
-"Let's take a look around the town 
-a little more... But if it gets too risky, 
+"Let's take a look around the town
+a little more... But if it gets too risky,
 we're getting out of here."
 0003370:face2
 \N[001]
@@ -14379,12 +14379,12 @@ Cas
 Thank you for helping me."
 0003395:face_plyr
 \N[002]
-"Save your thanks for later. This isn't 
-turning out well. And we can't carry everyone 
+"Save your thanks for later. This isn't
+turning out well. And we can't carry everyone
 out of here one by one."
 0003396:face_cath
 Cas
-"Yes...you're right. The lava is already close 
+"Yes...you're right. The lava is already close
 to the east side of the village.
 This place will be destroyed in moments."
 0003397:face
@@ -14484,7 +14484,7 @@ It's okay if you don't like her."
 0003423:face4k
 Zeldia
 "If you want to extinguish the flaming lava
-a little water isn't going to help. But there is 
+a little water isn't going to help. But there is
 one person who can make it rain on it."
 0003424:face_plyr
 \N[002]
@@ -14518,18 +14518,18 @@ Zeldia
 I don't know if she will help us but..."
 0003433:face_plyr
 \N[002]
-"We have no choice 
+"We have no choice
 but to ask Qua to put out the fire."
 0003434:face
 \N[001]
 "Oh...because she's a water demon...!"
 0003435:face
 \N[001]
-"But, 
+"But,
 would a demon be willing to help humans...?"
 0003436:face_plyr
 \N[002]
-"We don't have any other options, 
+"We don't have any other options,
 it's worth a shot.
 If it doesn't work, so be it."
 0003437:face_cath
@@ -14538,7 +14538,7 @@ Cas
 0003438:face_plyr
 \N[002]
 "Just in case things go wrong,
-you should still carry as many people 
+you should still carry as many people
 out of the village."
 0003439:face_cath
 Cas
@@ -14548,7 +14548,7 @@ Cas
 "I wonder where Qua is right now?"
 0003441:face_plyr
 \N[002]
-"We should go back 
+"We should go back
 to the top of the water tower again."
 Событие №:101
 0003442:face_plyr
@@ -14712,7 +14712,7 @@ it might difficult to move it...!"
 Событие №:42
 0003471:
 Auctioneer
-"We have a very rare female slave 
+"We have a very rare female slave
 for auction today!"
 0003472:
 Auctioneer
@@ -14742,7 +14742,7 @@ I can't do that.
 That would give our auction a bad name.)
 0003478:
 Owner
-*Whisper (I'm guessing you're true purpose is 
+*Whisper (I'm guessing you're true purpose is
 to meet withMr. Godel and not sell that slave.)
 0003479:face_plyr
 \N[002]
@@ -14754,8 +14754,8 @@ Then how about this?
 Let Mr Godel's servant bid on her.)
 0003481:
 Owner
-*Whisper (If we sell the slave to him, 
-we will receive all the bidding money. 
+*Whisper (If we sell the slave to him,
+we will receive all the bidding money.
 You can save her after that.)
 0003482:face_plyr
 \N[002]
@@ -14812,7 +14812,7 @@ Guard A
 Alright back to work."
 0003493:face_plyr
 \N[002]
-"\N[001] is down in the basement, huh. 
+"\N[001] is down in the basement, huh.
 I better hurry."
 Событие №:6
 Событие №:7
@@ -14881,7 +14881,7 @@ I'm escaping to the 2nd floor for now!"
 If you stand in front of the guard when
 they are facing you, they will see you.
 0003500:
-If you are seen 4 times before helping \N[001], 
+If you are seen 4 times before helping \N[001],
 you won't make it in time.
 Be careful going down into the basement.
 Событие №:40
@@ -15737,7 +15737,7 @@ Guard Commander
 It can't....be..."
 0003618:face_plyr
 \N[002]
-"Hey Commander. If you apologize for being 
+"Hey Commander. If you apologize for being
 an ass to me this whole time,
 I'll let you put your dick in \N[001]."
 0003619:face_plyr2
@@ -15752,10 +15752,10 @@ However, I need a sincere apology from you."
 Guard Commander
 "I am very very sorry!
 I have underestimated how merciful
-and forgiving you were sir..." 
+and forgiving you were sir..."
 0003622:face_plyr2
 Guard Commander
-"How could I have talked down 
+"How could I have talked down
 on master \N[002]?!
 Stupid! I'm stupid!"
 0003623:face_plyr2
@@ -15991,7 +15991,7 @@ and women were used as playthings for monsters.
 Objecting to this meant death.
 This was indeed dark times.
 0003683:
-The demon lord had four loyal demons, the 'elite four' 
+The demon lord had four loyal demons, the 'elite four'
 Their powers were great and ruled the world.
 0003684:
 The entire world was on its knees for the demon lord.
@@ -16020,7 +16020,7 @@ There isn't even a cat in sight in that city."
 0003688:face_plyr
 Demon Lord \N[002]
 "Is that so?
-They put up a bit of a fight, but having 
+They put up a bit of a fight, but having
 \N[001] on the job, it was over quick."
 0003689:face4
 Demon General \N[001]
@@ -16115,7 +16115,7 @@ You're going back, to your world."
 "Yeah...I guess."
 0003710:face3
 \N[001]
-"I think a demon lord 
+"I think a demon lord
 who wouldn't destroy the world...
 could stay here."
 0003711:face_plyr
@@ -16143,14 +16143,14 @@ so you're going to stay here, right?"
 "...Yes."
 0003717:face_plyr
 \N[002]
-"And after I go back, 
+"And after I go back,
 you're destroying this caldrin."
 0003718:face3
 \N[001]
 "...Yes."
 0003719:face_plyr
 \N[002]
-"The demon lord shouldn't 
+"The demon lord shouldn't
 be visiting regularly anyway."
 0003720:face3
 \N[001]
@@ -16225,7 +16225,7 @@ no matter what world you might run to
 I can chase after you with ease...!"
 0003741:face4k
 Zeldia
-"I was the one 
+"I was the one
 who was spying the portal cauldron."
 0003742:face4k
 Cidoles
@@ -16266,16 +16266,16 @@ Please!"
 0003752:face4k
 Seto
 "After that incident,
-we reformed our new demon lord army 
+we reformed our new demon lord army
 to fight the world..."
 0003753:face4k
 Cidoles
 "But we gave it a thought,
-and it's no fun ruling the world 
+and it's no fun ruling the world
 without my demon lord."
 0003754:face4k
 Cidoles
-"Besides, 
+"Besides,
 the demon lord army without the demon lord
 isn't a demon lord army."
 0003755:face4k
@@ -16302,13 +16302,13 @@ Seto
 none of us would stand a chance against you."
 0003760:face4k
 Cidoles
-"If we tried to kill you, you'd definitely fully 
+"If we tried to kill you, you'd definitely fully
 awaken and we'd be tortured for 5000 years
 in a hell of pain, suffering and anguish."
 0003761:face4k
 Qua
 "We've seen thousands of demon's go through it.
-There's no way we would revolt 
+There's no way we would revolt
 against the demon lord."
 0003762:face_plyr
 \N[002]
@@ -16321,7 +16321,7 @@ because you made a new lover...
 and we were jealous..."
 0003764:face_plyr
 \N[002]
-"Actually, 
+"Actually,
 \N[001] wasn't my lover but my master."
 0003765:face4k
 Qua
@@ -16333,7 +16333,7 @@ And you sexually harassed us everyday."
 "I did? Sorry..."
 0003767:face4k
 Cidoles
-"I was only 800 years old 
+"I was only 800 years old
 and you licked me all over!
 I had times I cried in bed you know!"
 0003768:face_plyr2
@@ -16351,11 +16351,11 @@ Zeldia
 "What...do you mean?"
 0003772:face4k
 Zeldia
-"You're forced to live 
+"You're forced to live
 in this suffocatingly small place...why?"
 0003773:face_plyr
 \N[002]
-"I don't want to be killed 
+"I don't want to be killed
 by some warrior either."
 0003774:face4k
 Seto
@@ -16377,11 +16377,11 @@ Don't try to impress!"
 0003779:face4k
 Qua
 "I'm not trying.
-When there was a demon lord army, You had a 
+When there was a demon lord army, You had a
 different woman every other day under your rule"
 0003780:face4k
 Qua
-"With no demon army we keep the demon lord 
+"With no demon army we keep the demon lord
 to ourselves. I like that better."
 0003781:face4k
 Zeldia
@@ -16428,7 +16428,7 @@ don't you want to have sex with all of us
 0003792:face_plyr
 \N[002]
 "............"
- 
+
 0003793:face_plyr3
 \N[002]
 "Of course I do!"
@@ -17222,7 +17222,7 @@ Do you want your viagra again today?"
 "He he...that's right.
 My wife is so hungry lately♥"
 0003924:
-\N[001] got pregnant, 
+\N[001] got pregnant,
 and taken by the item shop owner.
 0003925:
 Now she works at the item shop as his wife,
@@ -17276,7 +17276,7 @@ Asgard will soon be engulfed in a sea of flames.
 Not only her unborn child,
 but all of their lives will perish in the firery hell...
 0003939:
-Bad ED3 The wife of an item shop owner 
+Bad ED3 The wife of an item shop owner
 Событие №:6
 Событие №:7
 Событие №:8
@@ -17323,7 +17323,7 @@ The door is locked...
 Событие №:26
 0003943:face
 \N[001]
-(It's dangerous to be out alone 
+(It's dangerous to be out alone
 at night in the city...)
 0003944:face_plyr
 \N[002]
@@ -17672,7 +17672,7 @@ Bad ED2 Dick Slave
 have enough money..."
 0003996:face_cath
 Godel
-"I'm sorry but I won't allow for 
+"I'm sorry but I won't allow for
 one penny short...
 I need you to bring exactly 1000\G."
 Событие №:2
@@ -17746,7 +17746,7 @@ The two had a good night's sleep...
 Событие №:2
 0004006:face3
 \N[001]
-(There's no point being a customer 
+(There's no point being a customer
 at the strip club...)
 Событие №:3
 Событие №:4
@@ -17760,7 +17760,7 @@ but nothing is really striking me..."
 Событие №:13
 0004008:face3
 \N[001]
-(There's no point being a customer 
+(There's no point being a customer
 at the strip club...)
 Событие №:14
 0004009:
@@ -17936,7 +17936,7 @@ after you performed once...!"
 0004055:
 Owner
 "Very well!
-You're on for the 1000x sensitivity 
+You're on for the 1000x sensitivity
 and double dick show!"
 0004056:
 Owner
@@ -17973,7 +17973,7 @@ after you performed once...!"
 0004064:
 Owner
 "Very well!
-You're on for the 1000x sensitivity 
+You're on for the 1000x sensitivity
 and double dick show!"
 0004065:
 Owner
@@ -18461,7 +18461,7 @@ So \N[002] was absorbed by the mirror
 and now is trapped inside?!"
 0004160:
 "Precisely.
-I found a new path into the Goywood Forest 
+I found a new path into the Goywood Forest
 in a long time and followed it here..."
 0004161:
 "This mirror was used by the demon lord army once.
@@ -18544,7 +18544,7 @@ And way too close!"
 0004181:
 \N[001]?
 "You don't have to look that surprised.
-Our faces were so close when we kissed 
+Our faces were so close when we kissed
 all those times."
 0004182:
 \N[001]?
@@ -18573,7 +18573,7 @@ Eat
 Don't eat
 0004188:face_plyr
 \N[002]
-"Well, you did go to the trouble 
+"Well, you did go to the trouble
 of making it for me..."
 0004189:face4
 \N[001]?
@@ -18611,7 +18611,7 @@ Okay."
 "...Is..."
 0004197:face_plyr
 \N[002]
-"What you would've wanted me to say, 
+"What you would've wanted me to say,
 isn't it...?!"
 Событие №:3
 Событие №:7
@@ -18719,7 +18719,7 @@ The mirror is broken...
 0004223:face5
 \N[001]
 "\N[002]...
-I was worried 
+I was worried
 what could have happened to you..."
 0004224:face_plyr3
 \N[002]
@@ -19089,7 +19089,7 @@ And time passed...
 "...Is..."
 0004313:face_plyr
 \N[002]
-"What you would've wanted me to say, 
+"What you would've wanted me to say,
 isn't it...?!"
 Событие №:3
 Событие №:7
@@ -19200,7 +19200,7 @@ Do you want your viagra again today?"
 "He he...that's right.
 My wife is so hungry lately♥"
 0004338:
-\N[001] got pregnant, 
+\N[001] got pregnant,
 and taken by the item shop owner.
 0004339:
 Now she works at the item shop as his wife,
@@ -19285,7 +19285,7 @@ but all of their lives will perish in the firery hell...
 0004358:face5
 \N[001]
 "\N[002]...
-I was worried 
+I was worried
 what could have happened to you..."
 0004359:face_plyr3
 \N[002]
@@ -19366,7 +19366,7 @@ but I guess we should keep going forward."
 Событие №:2
 0004372:face_plyr
 \N[002]
-"If I look closely there's a small button 
+"If I look closely there's a small button
 under the candle stand..."
 0004373:Варианты выбора:
 Push button
@@ -19392,7 +19392,7 @@ That's a bit unusual around this area..."
 The door is locked and won't open!"
 0004377:face3
 \N[001]
-"There's a locked secret door 
+"There's a locked secret door
 behind the bookshelf.
 They're being very careful."
 0004378:face_plyr
@@ -19409,7 +19409,7 @@ You opened the secret door!
 0004380:face2
 \N[001]
 "This is...a memory crystal.
-It's a magic item 
+It's a magic item
 that stores your past memories."
 0004381:face_plyr
 \N[002]
@@ -19441,7 +19441,7 @@ Let's watch it quickly!"
 0004388:face_plyr
 \N[002]
 "Uh-huh..."
-So Seto and Godel were 
+So Seto and Godel were
 in that kind of relationship..."
 0004389:face4
 \N[001]
@@ -19466,7 +19466,7 @@ I'm surprised to know this city was built
 through the elite four's evil doings..."
 0004394:face_plyr
 \N[002]
-"I guess so... so, this was the Pandora's box 
+"I guess so... so, this was the Pandora's box
 we were looking for, huh?
 We need to talk to that woman at the inn again."
 0004395:face_plyr4
@@ -19572,7 +19572,7 @@ Your journey ends here."
 0004416:face_plyr
 \N[002]
 "That's not happening.
-We've been on a journey 
+We've been on a journey
 to defeat the demon lord."
 0004417:face_plyr
 \N[002]
@@ -19580,7 +19580,7 @@ to defeat the demon lord."
 Let's go \N[001]!!"
 0004418:face3
 \N[001]
-"Huh? How long are you going to act like 
+"Huh? How long are you going to act like
 you're my partner?
 Cut it out already."
 0004419:face_plyr
@@ -19588,11 +19588,11 @@ Cut it out already."
 "Wha...?"
 0004420:face3
 \N[001]
-"I've been fed up with you 
+"I've been fed up with you
 for a long time already."
 0004421:face4
 \N[001]
-"If master Godel is 
+"If master Godel is
 going to become the demon lord,
 my mission has no meaning to me anymore!"
 0004422:face4
@@ -19601,7 +19601,7 @@ my mission has no meaning to me anymore!"
 0004423:face4k
 Seto
 "So that's how it is...
-Us the elite four and \N[001] 
+Us the elite four and \N[001]
 are with master Godel."
 0004424:face4k
 Seto
@@ -19703,7 +19703,7 @@ Zeldia
 (...I knew, this would happen...)
 0004448:face4k
 Zeldia
-(When the demon lord 
+(When the demon lord
 should come back to this world,
 he would have sex with a bunch of other women...)
 0004449:face4k
@@ -19720,7 +19720,7 @@ Godel
 We meet in an unusual place..."
 0004452:face4k
 Zeldia
-"You...are the man from Laoda 
+"You...are the man from Laoda
 who mocked master \N[002]?"
 0004453:face_cath
 Godel
@@ -19732,7 +19732,7 @@ Zeldia
 "...What?"
 0004455:face_cath
 Godel
-"I went through demonic transformation to 
+"I went through demonic transformation to
 provide pleasure to all women in the world...
 Oh? Are you, perhaps, tearing up?"
 0004456:face4k
@@ -19746,7 +19746,7 @@ What is that man doing?"
 0004458:face4k
 Zeldia
 "I'm... not beautiful...
-To prove it, 
+To prove it,
 master \N[002] won't only look at me..."
 0004459:face4k
 Zeldia
@@ -19763,21 +19763,21 @@ Godel
 leave a woman such as you so defeated..."
 0004462:face_cath
 Godel
-"What do you say? I just happened to come to 
-this town for business, but it's getting late so 
+"What do you say? I just happened to come to
+this town for business, but it's getting late so
 I'll be staying for the night."
 0004463:face_cath
 Godel
 "I could use my powers master Seto gave me
-to provide you with the relaxation 
+to provide you with the relaxation
 you deserve...♥"
 0004464:face4k
 Zeldia
 "I...Don't need to relax..."
 0004465:face4k
 Zeldia
-(No...I can't lie to myself... If I can relieve 
-myself from the pain caused by my demon lord 
+(No...I can't lie to myself... If I can relieve
+myself from the pain caused by my demon lord
 neglecting me just this once...)
 0004466:face4k
 Zeldia
@@ -19927,7 +19927,7 @@ and now you're going to leave me again...)
 0004483:face4k
 Qua
 (I never should have become the elite four...
-I only became one 
+I only became one
 because the demon lord wanted me to...)
 0004484:face4k
 Qua
@@ -19970,7 +19970,7 @@ Qua
 I'm hundreds of years older than you..."
 0004494:face_cath
 Godel
-"But what about in demon age? I heard 100 years 
+"But what about in demon age? I heard 100 years
 in human is about 1 in demon years.
 So if you don't mind asking, you are...?"
 0004495:face4k
@@ -19988,11 +19988,11 @@ we'll have some fun together...♥"
 0004498:face4k
 Qua
 "...No...
-No one touches Qua 
+No one touches Qua
 except my demon lord and daddy."
 0004499:face_gordel
 Godel
-"But all except for the elite four, the demons 
+"But all except for the elite four, the demons
 were all destroyed in the war 400 years ago.
 So that means your daddy is no longer...!"
 0004500:face4k
@@ -20006,7 +20006,7 @@ you can think of me as your daddy."
 0004502:face_gordel
 Godel
 "I may not look like it...but I do have enough
-wealth and honor to protect 
+wealth and honor to protect
 a demon in the human world."
 0004503:face4k
 Qua
@@ -20079,7 +20079,7 @@ Cidoles
 Those idiots!"
 0004518:face4k
 Cidoles
-"That inn doesn't have a roof and it's starting 
+"That inn doesn't have a roof and it's starting
 to rain... They can't even keep quiet,
 in fact you could hear them from a mile away!"
 0004519:face4k
@@ -20104,12 +20104,12 @@ Godel
 "We met before...in my mansion."
 0004524:face4k
 Cidoles
-"You're the fart fucking 
+"You're the fart fucking
 the demon lord's new whore."
 0004525:face_cath
 Godel
 "Demon lord...so that man is indeed...
-So you used to be the demon lord's courtesan." 
+So you used to be the demon lord's courtesan."
 0004526:face4k
 Cidoles
 "D-Don't say I used to be!
@@ -20121,7 +20121,7 @@ Godel
 look the part..."
 0004528:face4k
 Cidoles
-"Grr...! What is it with you! 
+"Grr...! What is it with you!
 Are you going to mock me too?!
 I'll destroy you!!"
 0004529:face_cath
@@ -20135,7 +20135,7 @@ Cidoles
 You're looking at the winner of Miss Demon!!"
 0004531:face_cath
 Godel
-"Of course, 
+"Of course,
 I will recognize the potential you have..."
 0004532:face_cath
 Godel
@@ -20303,12 +20303,12 @@ I don't need...more than that...)
 0004566:face_gordel
 Seto
 (...I don't need anything.
-As long as my demon lord is here, 
+As long as my demon lord is here,
 I need nothing...)
 0004567:face_gordel
 Godel
 "How foolish, Seto.
-The goddess of corruption drowning 
+The goddess of corruption drowning
 in affection...?!"
 0004568:face_gordel
 Seto
@@ -20320,7 +20320,7 @@ Godel
 penetrating you is the true form of a goddess!"
 0004570:face_gordel
 Godel
-"Your love for the demon lord 
+"Your love for the demon lord
 is nothing but an illusion!"
 0004571:face_gordel
 Seto
@@ -20335,12 +20335,12 @@ Godel
 did you disappear from my sight so suddenly?"
 0004574:face_gordel
 Seto
-"Hmph...Who lusted for who first? You were 
+"Hmph...Who lusted for who first? You were
 the one so addicted with having sex with me,
 you didn't even try to rape any other women."
 0004575:face_gordel
 Seto
-"This city of pleasure and guilt 
+"This city of pleasure and guilt
 would never have come.
 I only acted accordingly to my plans..."
 0004576:face_gordel
@@ -20397,7 +20397,7 @@ Seto
 0004589:face_gordel
 Godel
 "Such words from a goddess are wasted on me...
-If I were never to see you again, please know 
+If I were never to see you again, please know
 my heart will always think of you...farewell."
 0004590:face_gordel
 Seto
@@ -20548,7 +20548,7 @@ Godel
 "...Love is only an illusion..."
 0004606:face_gordel
 Godel
-"Wasn't that your true power 
+"Wasn't that your true power
 of chaos and corruption?
 Seto..."
 Событие №:4
@@ -20647,12 +20647,12 @@ answer to your summons!
 Cidoles will no longer
 answer to your summons!
 0004630:
-Seto will no longer 
+Seto will no longer
 answer to your summons!
 0004631:face_plyr4
 \N[002]
 "Now I can't summon any one of them...
-Before things get worse, I should hurry over 
+Before things get worse, I should hurry over
 to where the demon lord is...!"
 0004632:
 *New entry to debug mode,
@@ -20761,7 +20761,7 @@ and women were used as playthings for monsters.
 Objecting to this meant death.
 This was indeed dark times.
 0004650:
-The demon lord had four loyal demons, the 'elite four' 
+The demon lord had four loyal demons, the 'elite four'
 Their powers were great and ruled the world.
 0004651:
 The entire world was on its knees for the demon lord.
@@ -20807,7 +20807,7 @@ A few months later...
 "Arg...gah..."
 0004660:
 Seto
-"Now \N[002]... You will now, 
+"Now \N[002]... You will now,
 never be able to return to this world...
 Be gone forever..."
 Событие №:15
@@ -20888,7 +20888,7 @@ Qua
 You're so pathetic Qua will help you this time."
 0004678:face4k
 Cidoles
-"I'll be waiting for you 
+"I'll be waiting for you
 at that mountain, okay...?"
 0004679:face4k
 Seto
@@ -21202,7 +21202,7 @@ Godel
 "Arg...gah..."
 0004712:
 Seto
-"Now \N[002]... You will now, 
+"Now \N[002]... You will now,
 never be able to return to this world...
 Be gone forever..."
 Событие №:15
@@ -21246,7 +21246,7 @@ You're going back, to your world."
 "Yeah...I guess."
 0004718:face3
 \N[001]
-"I think a demon lord 
+"I think a demon lord
 who wouldn't destroy the world...
 could stay here."
 0004719:face_plyr
@@ -21274,14 +21274,14 @@ so you're going to stay here, right?"
 "...Yes."
 0004725:face_plyr
 \N[002]
-"And after I go back, 
+"And after I go back,
 you're destroying this caldrin."
 0004726:face3
 \N[001]
 "...Yes."
 0004727:face_plyr
 \N[002]
-"The demon lord shouldn't 
+"The demon lord shouldn't
 be visiting regularly anyway."
 0004728:face3
 \N[001]
@@ -21334,5 +21334,3 @@ will give you a choice at the end.
 Событие №:22
 Событие №:23
 Событие №:24
-
-
