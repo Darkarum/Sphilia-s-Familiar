@@ -317,7 +317,7 @@ Painfully drains half of her HP
 Vigorously reveal Sphilia's panties
 Embarrassment downs her agility by x0.5
 135:Nipple Twister
-Pinch & twiddle Sphilia's nipples 
+Pinch & twiddle Sphilia's nipples
 Loses her grip and downs defense by x0.5
 136:French Kiss
 Tongue kiss Sphilia
@@ -1885,9 +1885,7 @@ Change Equipment:Change Equip
 Ultimate Equipment:Equip Best
 Remove All:Take Off All
 New Game:Новая игра
-Continue:Continue
+Continue:Продолжить
 Shut Down:Shut Down
 Go to Title:To Title
 Cancel:Quit
-
-
