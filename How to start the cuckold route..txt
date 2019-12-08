@@ -1,0 +1,32 @@
+﻿
+How to start the cuckold route.
+
+<1>
+You can't enter this rout on the first play through. Please clear the Demon lord ending.
+Once you clear the demon lord ending, you can use the debug mode which will make things easier.
+If you fail to save Sphilia in her rescue event in Laoda on your first playthrough,
+please keep the save file.
+If you have the save file, you can go back and clear the event.
+
+
+<2>
+If you cleared the game at least once, you can use debug mode from any save file.
+Start with the save file right after you failed the rescue event in Laoda stated in <1>
+and talk to the woman in the inn, and follow directions.
+
+
+----
+
+
+*After the demon lord ending, if you wish to start the game from the beginning please follow the procedure here.
+(1) After the opening and you're able to free roam, make Sphilia your ally.
+(2) In debug mode, add "Max out set."(The set will release full money, skills, gear, level, and runes)
+(3) Go to Laoda immediately and go through the events there.
+During this if you go to any place before Laoda in debug mode, the game will be bugged.
+(This is because you haven't played the game going through the trigger events)
+
+Once the cuckolding starts for real, you will be guided to events in other areas.
+After this happens you can go to other locations outside Laoda.
+(For versions v2.01 and later, once the cuckolding starts
+the game has been programmed to recognize you completed the game up to Laoda.
+For example the volcano event has been changed to cleared.)

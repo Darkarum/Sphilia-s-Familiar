@@ -1,0 +1,1893 @@
+||||||||||||||База данных||||||||||||||
+=================== ГЕРОИ ===================
+1:Sphilia
+2:Akito
+3:
+4:秋斗テス
+5:
+6:
+7:
+8:
+9:
+10:
+=================== КЛАССЫ ===================
+1:NEET
+2:モンク
+3:騎士
+4:魔法剣士
+5:サムライ
+6:アーチャー
+7:シーフ
+8:僧侶
+9:Wizard
+10:賢者
+11:
+12:テストニート
+13:
+14:
+15:
+16:
+17:
+18:
+19:
+20:
+=================== НАВЫКИ ===================
+1:攻撃
+他のスキルのメモ欄に <駆動> や <硬直> の項目が
+存在しない場合、このスキルの値が使われます。
+2:防御
+身を守ることに専念し、受けるダメージを抑える。
+3:逃走
+逃走時の硬直
+4:戦闘開始
+戦闘開始時の順番に計算に、
+このスキルの<駆動>の計算式が使われます
+5:復活
+
+6:キャンセル
+
+7:先制
+先制したバトラーの戦闘開始時の順番に計算に、
+このスキルの<駆動>の計算式が使われます
+8:行動不能＆復帰
+
+9:--予約エリア--
+
+10:--予約エリア--
+
+11:
+
+12:two attacks
+敵２体にダメージを与える。
+13:eerie mist
+敵全体を沈黙状態にする。
+14:超音波
+敵全体を混乱状態にする。
+15:alluring song
+敵全体を混乱状態にする。
+16:甘い息
+敵全体を睡眠状態にする。
+17:sleep pollen
+敵全体を睡眠状態にする。
+18:paralysis breath
+敵全体をしびれ状態にする。
+19:glared intensely
+敵単体を麻痺状態にする。
+20:足払い
+敵単体のバランスを崩させる。
+21:体当たり
+敵単体にダメージを与え、バランスを崩させる。
+22:雄たけび
+敵全体のバランスを崩させる。
+23:blood suck
+敵単体のＨＰを吸収する。
+24:瞑想
+使用者のＨＰを回復する。
+25:--------------------
+
+26:ヒール
+味方単体のＨＰを回復する。
+27:ヒールⅡ
+味方単体のＨＰを回復する。
+28:ヒールⅢ
+味方単体のＨＰを回復する。
+29:リカバー
+味方全体のＨＰを回復する。
+30:リカバーⅡ
+味方全体のＨＰを回復する。
+31:キュア
+毒状態および麻痺状態を治療する。
+32:キュアⅡ
+戦闘不能以外の状態異常を治療する。
+33:レイズ
+戦闘不能から復活させる。
+34:レイズⅡ
+戦闘不能から復活させ、ＨＰを大きく回復する。
+35:ポイズン
+敵全体を毒状態にする。
+36:ブラインド
+敵全体を暗闇状態にする。
+37:サイレンス
+敵全体を沈黙状態にする。
+38:コンフューズ
+敵全体を混乱状態にする。
+39:Dormir
+Puts all enemies under sleep status
+40:パラライズ
+敵単体を麻痺状態にする。
+41:ウェポンブレス
+味方単体の攻撃力を上げる。
+42:アーマーブレス
+味方単体の防御力を上げる。
+43:ディバインブレス
+味方単体の魔法防御を上げる。
+44:クイックムーブ
+味方単体の敏捷性を上げる。
+45:ウェポンカース
+敵全体の攻撃力を下げる。
+46:Down Guard
+Brings down defense on all enemies
+47:ディバインカース
+敵全体の魔法防御を下げる。
+48:スロームーブ
+敵全体の敏捷性を下げる。
+49:ライフドレイン
+敵単体のＨＰを吸収する。
+50:マナドレイン
+敵単体のＭＰを吸収する。
+51:Fire Ball
+Throws fire ball at an enemy
+52:Meteor
+Throws down a flaming meteor on an enemy
+53:Flame Blaze
+Conjures a blazing storm on all enemies
+54:Flame Ball
+敵単体に炎の玉を投げつける
+55:Ice Horn
+Impales an enemy with an icicle
+56:Rune
+Teleports you to where you've been
+57:Hell Blizzard
+Conjures a blizzard on all enemies
+58:ブリザードⅡ
+敵全体に氷属性のダメージを与える。
+59:サンダー
+敵単体に雷属性のダメージを与える。
+60:サンダーⅡ
+敵単体に雷属性のダメージを与える。
+61:スパーク
+敵全体に雷属性のダメージを与える。
+62:スパークⅡ
+敵全体に雷属性のダメージを与える。
+63:Water Blast
+敵単体に水属性のダメージを与える。
+64:ウェーブ
+敵全体に水属性のダメージを与える。
+65:ストーン
+敵単体に大地属性のダメージを与える。
+66:Magma Quake
+Brings upon an earthquake on all enemies
+67:Typhon
+Conjures a gigantic tornado on an enemy
+68:トルネード
+敵全体に風属性のダメージを与える。
+69:セイント
+敵単体に神聖属性のダメージを与える。
+70:Heaven's Light
+Shoots a ray of light on all enemies
+71:Shadow Burst
+Deals dark damage on an enemy
+72:カオスドーン
+敵全体に混沌からの黒い力をもたらす
+73:Atomic Bang
+Erupts an atomic explosion on an enemy
+74:Big Bang
+A galactic explosion on all enemies
+75:--------------------
+
+76:ファイアウェポン
+５ターンの間、使用者に炎属性を付与する。
+77:アイスウェポン
+５ターンの間、使用者に氷属性を付与する。
+78:サンダーウェポン
+５ターンの間、使用者に雷属性を付与する。
+79:--------------------
+
+80:Flail
+敵全体に対して強力な攻撃を行う。
+81:Goo
+ねばねば攻撃
+82:Cleave
+敵全体を１コマ遅らせます
+83:バーサーカーダンス
+斧技。敵３体に対して強力な攻撃を行う。
+84:ギガスランページ
+斧技。敵全体に対して強力な攻撃を行う。
+85:タックル
+敵単体に対して攻撃を行ない、バランスを崩させる。
+ダメージは使用者の攻撃力と防御力に依存する。
+86:チャクラ
+使用者の状態異常をすべて治す。
+87:虎伏の構え
+３ターンの間、敵の攻撃をキャンセルして反撃を行う。
+88:無影脚
+敵全体に対して、防御力無視の強力な攻撃を行う。
+通常よりも素早く行動できる。
+89:破龍爪円舞
+爪技。敵単体に対して、防御力無視の強力な２回攻撃を行う。
+90:かばう
+１ターンの間、ＨＰの少ない味方を自動的にかばう。
+91:挑発
+５ターンの間、使用者の狙われやすさを上げる。
+92:鉄壁の守り
+３ターンの間、使用者への物理攻撃をほぼ完全に防ぐ。
+93:リッターシルト
+５ターンの間、味方全体の防御力を大幅に上げる。
+94:ゼクスシュツルム
+槍技。敵３体に対して強力な２回攻撃を行う。
+95:オーラブレード
+剣技。敵単体に対して強力な攻撃を行ない、沈黙させる。
+ダメージは使用者の攻撃力と魔法力に依存する。
+96:ディスペル
+敵単体の強化魔法を解除する。
+97:魔法バリア
+３ターンの間、使用者の魔法防御を大幅に上げる。
+98:リインフォーサー
+５ターンの間、使用者に炎・氷・雷の属性を付与する。
+99:レディアントブレード
+剣技。敵全体に対して強力な神聖属性の攻撃を行う。
+ダメージは使用者の攻撃力と魔法力に依存する。
+100:鎧通し
+敵単体に防御力無視の攻撃を行なう。
+101:Shintou Mekkyaku
+Increases a little bit of TP.
+102:八相
+５ターンの間、使用者の攻撃力と防御力を少し上げる。
+103:ツバメ返し
+刀技。敵全体に対して２回攻撃を行う。
+104:桜花夢幻刃
+刀技。敵全体に対して４回攻撃を行う。
+105:ウェポンブレイク
+敵単体に必中攻撃を行い、攻撃力を少し下げる。
+106:アーマーブレイク
+敵単体に必中攻撃を行い、防御力を少し下げる。
+107:絶影
+５ターンの間、使用者の敏捷性を大幅に上げる。
+108:トリプルショット
+弓技。敵３体に対して強力な攻撃を行う。
+ダメージは使用者の攻撃力と敏捷性に依存する。
+109:サウザンドアロー
+弓技。敵全体に対して３回攻撃を行う。
+ダメージは使用者の攻撃力と敏捷性に依存する。
+110:隠れる
+５ターンの間、使用者の狙われやすさを下げる。
+111:閃光玉
+敵全体を暗闇状態にする。
+112:盗賊の悪運
+８ターンの間、使用者の運を大幅に上げる。
+113:アサシンエッジ
+短剣技。敵単体に対して強力な２回攻撃を行う。
+ダメージは使用者の攻撃力と運に依存する。
+114:ヴァリアントエッジ
+短剣技。敵４体に対して強力な攻撃を行う。
+ダメージは使用者の攻撃力と運に依存する。
+115:聖霊の祝福
+３ターンの間、味方全体の防御力を少し上げる。
+116:妖精の息吹
+４ターンの間、味方全体をＨＰ自動回復状態にする。
+117:神罰
+敵全体に対して、魔法力依存の神聖属性攻撃を行う。
+118:女神の加護
+７ターンの間、味方全体の防御力と魔法防御を大幅に上げる。
+119:魔法反射
+１ターンの間、敵の魔法攻撃を跳ね返す。
+120:スペルエンハンス
+５ターンの間、使用者の魔法力を大幅に上げる。
+121:ナイトメア
+敵全体を睡眠状態にし、魔法防御を大幅に下げる。
+122:魔力の奔流
+使用者のＭＰを最大値の50％回復する。
+123:魔脈のオーラ
+４ターンの間、使用者をＭＰ自動回復状態にする。
+124:Bazooka
+
+125:Machinegun
+
+126:SMG
+
+127:Demon Cannon
+
+128:
+
+129:--プレイヤースキル--
+
+130:Help Dress Up
+Like a familiar should, I will help
+master dress up
+131:Ass Fondle
+Fondle Sphilia's ass
+excites her raising magic by x1.5
+132:Titty Grab
+Grab Sphilia by her tits
+Loses her grip and downs defense by x0.8
+133:Slap Ass
+Slap Sphilia's ass with full force
+Painfully drains half of her HP
+134:Panty Reveal
+Vigorously reveal Sphilia's panties
+Embarrassment downs her agility by x0.5
+135:Nipple Twister
+Pinch & twiddle Sphilia's nipples 
+Loses her grip and downs defense by x0.5
+136:French Kiss
+Tongue kiss Sphilia
+Excites her raising magic by x2
+137:Hard Groping
+Tongue kiss and tit grab Sphilia
+Excites her raising magic by x3
+138:Thigh Job
+Rub your cock in Sphilia's plump thighs
+Dreamlike feel drops defense by half
+139:
+
+140:
+
+141:
+
+142:
+
+143:--エネミースキル--
+
+144:Tit Grab Enemy
+\N[001]のおっぱいを揉む
+
+145:Ass Grab Enemy
+\N[001]のおっぱいを揉む
+
+146:Kiss Enemy
+\N[001]とキスする
+147:Crawl Around
+\N[001]の服の中を這い回る
+
+148:
+
+149:
+
+150:Meteor
+Throws down a flaming meteor on an enemy
+151:Magma Quake
+Brings upon an earthquake on all enemies
+152:Typhon
+Conjures a gigantic tornado on an enemy
+153:Heaven's Light
+Shoots a ray of light on to an enemy
+154:Atomic Bang
+Erupts an atomic explosion on an enemy
+155:Big Bang
+A galactic explosion on all enemies
+156:Flame Blaze
+Conjures a blazing storm on all enemies
+157:
+
+158:
+
+159:Thunder Shock
+敵単体に雷属性のダメージを与える。
+160:
+
+161:Summon Zeldia
+Summon Zeldia for 'Unholy Slash'
+Or rape her.
+162:Unholy Slash
+敵一体に対して強力な攻撃を行う。
+163:
+
+164:Summon Qua
+Summon Qua for 'Tidal Wave'
+Or rape her.
+165:Tidal Wave
+敵全体に水属性のダメージを与える。
+166:
+
+167:Summon Cidoles
+Summon Cidoles for 'Inferno'
+Or rape her.
+168:Inferno
+敵全体に火属性のダメージを与える。
+169:
+
+170:Summon Seto
+Summon Seto for 'Zone Splitter'
+Or rape her.
+171:Zone Splitter
+敵全体に闇属性のダメージを与える。
+172:
+
+173:
+
+174:
+
+175:
+
+176:
+
+177:
+
+178:
+
+179:
+
+180:
+
+181:
+
+182:
+
+183:
+
+184:
+
+185:
+
+186:
+
+187:
+
+188:
+
+189:
+
+190:
+
+191:
+
+192:
+
+193:
+
+194:
+
+195:
+
+196:
+
+197:
+
+198:
+
+199:
+
+200:Unholy Slash
+敵一体に対して強力な攻撃を行う。
+201:Tidal Wave
+敵全体に水属性のダメージを与える。
+202:Inferno
+敵全体に火属性のダメージを与える。
+203:Realm Splitter
+敵全体に闇属性のダメージを与える。
+204:
+
+205:
+
+206:
+
+207:
+
+208:
+
+209:
+
+210:
+
+211:
+
+212:
+
+213:
+
+214:
+
+215:
+
+216:
+
+217:
+
+218:
+
+219:
+
+220:
+
+221:
+
+222:
+
+223:
+
+224:
+
+225:
+
+226:
+
+227:
+
+228:
+
+229:
+
+230:
+
+231:
+
+232:
+
+233:
+
+234:
+
+235:
+
+236:
+
+237:
+
+238:
+
+239:
+
+240:
+
+241:
+
+242:
+
+243:
+
+244:
+
+245:
+
+246:
+
+247:
+
+248:
+
+249:
+
+250:
+
+251:
+
+252:
+
+253:
+
+254:
+
+255:
+
+256:
+
+257:
+
+258:
+
+259:
+
+260:
+
+261:
+
+262:
+
+263:
+
+264:
+
+265:
+
+266:
+
+267:
+
+268:
+
+269:
+
+270:
+
+271:
+
+272:
+
+273:
+
+274:
+
+275:
+
+276:
+
+277:
+
+278:
+
+279:
+
+280:
+
+281:
+
+282:
+
+283:
+
+284:
+
+285:
+
+286:
+
+287:
+
+288:
+
+289:
+
+290:
+
+291:
+
+292:
+
+293:
+
+294:
+
+295:
+
+296:
+
+297:
+
+298:
+
+299:
+
+300:
+
+=================== ПРЕДМЕТЫ ===================
+1:Apple Jelly
+Restores 500 HP points
+2:Grape Jelly
+Restores 2500 HP points
+3:Orange Jelly
+Restores full health
+4:Cranberry
+Restores 200 MP points
+5:Holy Symbol
+Revives from knock out
+6:Paralysis Herb
+Cures paralysis status
+7:All cure
+Cures all status ailments except knock out
+8:Elixir
+Restores HP and MP fully
+Revives you from knock out
+9:Life Boost
+Boosts max HP by 50 points.
+10:Mana Boost
+Boosts max MP by 50 points.
+11:Power Boost
+Boosts attack by 3 points.
+12:Guard Boost
+Boosts defense by 3 points.
+13:Magic Boost
+Boosts magic by 3 points.
+14:Resist Boost
+Boosts magic defense by 3 points.
+15:Speed Boost
+Boosts agility by 3 points.
+16:Luck Boost
+Boosts luck by 3 points.
+17:
+
+18:Pyramid Key
+Opens a door somewhere in the Pyramid
+19:Beautiful Gem
+Beautiful shimmering gemstone
+20:Cold Juice
+Cold juice from the Therma hot spring
+Chug it down before you go
+21:Sooted Gem
+Soot covered gem
+that used to be beautiful
+22:Hacking Scythe
+Scythe used to hack through weeds
+23:Wing of Asgard
+Instantly teleports you only to Asgard
+24:Asgard Water
+Quenches your thirst
+25:Asgard Almanac
+A calendar with Asgard's famous sights
+26:Wizard's Doll
+Souvenir doll in the shape a wizard
+27:Fish Ornament
+Ornament of Asgard's freshwater fish
+Fish are a symbol of Asgard
+28:Wing of Rune
+Teleports you to where you've been
+29:
+
+30:Laoda Rug
+Souvenir rug with Laoda's emblem
+31:Laoda Plate
+Souvenir dish plate with Laoda's emblem
+32:Laoda Sachet
+Souvenir sachet with Laoda's emblem
+33:Laoda Candy
+Teeth achingly sweet Laoda souvenir
+So sweet it will clear your mind
+34:Back Door Key
+Used to open the back door to the bath
+at the Therma hot spring
+35:Slime Extract
+Nutritious and perfect for fertilizer
+Paralyze enemies with its sweet taste
+36:
+
+37:Fire Charm
+Anyone with or without magic can use
+to throw fire spells
+38:Ice Charm
+Anyone with or without magic can use
+to throw ice spells
+39:Thunder Charm
+Anyone with or without magic can use
+to throw lightning spells
+40:
+
+41:Flood Gate Key
+Used to open the flood gate in Asgard
+42:Special Lube
+Good for use on tight butts
+43:Strip Pass
+Grants free entry to the strip club
+44:Rainbow Orb
+Light orb that leads to the demon lord
+45:Hand Grenade
+Throw to deal damage on all enemies
+46:
+
+47:Spirit Potion
+Sacred Medicine to cure all ailments
+48:Secret Door Key
+Used to open a door at Godel Mansion
+49:Debug Kit
+Used for debugging the game
+50:
+
+51:Firecracker
+Throw to deal damage on all enemies
+52:
+
+53:Strange Herb
+Makes you attack anyone from the buzz
+restores MP & TP slightly
+54:
+
+55:
+
+56:aaaaaaaaabaaac
+aaaaaaaaabaaaaaaaaabaaaaaaaaabaaaaaaaaabaaac
+aaaaaaaaabaaaaaaaaabaaaaaaaaabaaaaaaaaabaaac
+57:
+
+58:
+
+59:
+
+60:
+
+61:
+
+62:
+
+63:
+
+64:
+
+65:
+
+66:
+
+67:
+
+68:
+
+69:
+
+70:
+
+71:
+
+72:
+
+73:
+
+74:
+
+75:
+
+76:
+
+77:
+
+78:
+
+79:
+
+80:
+
+81:
+
+82:
+
+83:
+
+84:
+
+85:
+
+86:
+
+87:
+
+88:
+
+89:
+
+90:
+
+91:
+
+92:
+
+93:
+
+94:
+
+95:
+
+96:
+
+97:
+
+98:
+
+99:
+
+100:
+
+=================== ОРУЖИЕ ===================
+1:Tomahawk
+Small Axe
+2:Partisan
+A wide long spear forged with steel.
+3:Long Sword
+Long blade for battle with a sharp edge
+4:Mithril Mace
+War mace made from Mithril metal
+5:Asgard Axe
+Battle axe used by Asgardians
+6:Falchion
+Wide sword with a curved blade
+Used by the Laoda when they were nomads
+7:Old Grimoire
+Grimoire passed down by holy mages
+8:Red Grimoire
+An ancient grimoire
+Magic+30%
+9:White Grimoire
+An ancient grimoire
+Magic+40%
+10:Black Grimoire
+An ancient grimoire
+Magic+50%
+11:Blue Grimoire
+An ancient grimoire
+Magic+20%
+12:SMG
+A portable SMG
+attacks all enemies
+13:Machinegun
+All-rounder automatic, probably an MG3
+14:Bazooka
+Anti-tank rocket launcher
+15:Demon Cannon
+The ultimate ancient weapon
+16:ミスリルスピア
+魔法の金属ミスリルで作られた長槍。
+17:ホーリーランス
+白き神の祝福を受けた聖なる槍。
+18:魔槍ゲイボルグ
+影の国に伝わる魔力を帯びた槍。
+19:ショートソード
+軽くて扱いやすい刀身の短い剣。
+20:ロングソード
+鋭い切れ味を誇る戦闘用の長剣。
+21:ファルシオン
+反りのある刀身をもつ幅広の剣。
+22:ミスリルソード
+魔法の金属ミスリルで作られた長剣。
+23:ルーンブレード
+刀身にルーン文字の刻まれた剣。
+24:魔剣ティルヴィング
+勝利と災厄をもたらす魔剣。
+25:無銘の刀
+銘をもたない細身の刀。
+26:斬馬刀
+破壊力に優れた太刀。
+27:虎徹
+名のある刀匠に鍛えられた業物の刀。
+28:霊銀の太刀
+魔法の金属で作られた太刀。
+29:七支刀
+破邪の力を秘めた古代刀。
+30:妖刀ムラマサ
+剣士たちの生き血を吸ってきた魔性の刀。
+31:ショートボウ
+狩猟用に作られた短めの弓。
+32:ロングボウ
+威力を高めた戦闘用の長弓。
+33:クロスボウ
+強力なバネで矢を射出する石弓。
+34:ミスリルボウ
+魔法の金属ミスリルで作られた弓。
+35:エルブンボウ
+妖精の森に生える霊木から作られた弓。
+36:魔弓アルテミス
+月の女神の名を冠する白銀の弓。
+37:ナイフ
+日常生活にも使えるナイフ。
+38:ダガー
+幅広の刀身をもつ戦闘用の短刀。
+39:マインゴーシュ
+攻撃を受け流すこともできる短剣。
+40:ミスリルナイフ
+魔法の金属ミスリルで作られたナイフ。
+41:アサシンダガー
+暗殺者が好んで使う漆黒の短刀。
+42:魔刃ヴォーテクス
+竜巻の名を冠する魔法の短剣。
+43:メイス
+打撃力を高めた金属製の棍棒。
+44:フレイル
+柄の先に鎖で鉄球をつないだ打撃武器。
+45:ウォーハンマー
+戦闘用に作られた鋼鉄のハンマー。
+46:ミスリルメイス
+魔法の金属ミスリルで作られた戦槌。
+47:アースブレイカー
+大地の力を秘めた魔法のハンマー。
+48:魔槌ミョルニル
+“打ち砕くもの”の異名をもつ戦神の槌。
+49:ウッドスタッフ
+樫の木で作られた堅い杖。
+50:魔道士の杖
+精神集中を助ける宝珠のついた杖。
+51:フォースワンド
+術者の魔力を増幅させる銀製の杖。
+52:ミスリルロッド
+魔法の金属ミスリルで作られた杖。
+53:霊木の杖
+ヤドリギの老木から作られた杖。
+54:魔杖アゾット
+賢者の石が埋め込まれた魔杖。
+55:フリントロック
+火打ち式の旧式拳銃。
+56:マスケット
+銃士に支給される歩兵銃。
+57:ドラグーン
+騎兵が使用するカービン銃。
+58:霊銀銃
+魔法の金属ミスリルの銃身をもつ銃。
+59:ピースメイカー
+黒色火薬を用いたリボルバー式拳銃。
+60:魔銃エーテルブラスト
+霊子を弾丸に換えて撃ち出す魔銃。
+=================== БРОНЯ ===================
+1:usual clothes
+T-shirt, hoodie, and jeans
+2:Leather Armor
+Armor made from folded leather
+
+3:Bronze Plate
+Breastplate made from copper
+4:Chain Mail
+Armor made from meshed metal chains
+5:Iron Mail
+An armor made from Steel
+6:Desert Armor
+Traditional Laoda tribe armor
+7:Round Shield
+Round wood shield with a metal frame
+8:Iron Shield
+A Shield made from steel
+9:Knight Shield
+A steel armor with Asgard's emblem on it
+10:
+
+11:
+
+12:
+
+13:
+
+14:
+
+15:
+
+16:
+
+17:
+
+18:
+
+19:
+
+20:
+
+21:
+
+22:
+
+23:Wizard's Robe
+Faintly magical robe
+24:Skimpy Bikini
+Skimpy Bikini that exposes your areola
+Change with skill 'Help Dress-up'
+25:
+
+26:
+
+27:
+
+28:
+
+29:ミスリルサークレット
+魔法の金属ミスリルで作られた額飾り。
+30:賢者の額冠
+古代魔法文明の技術で作られた額飾り。
+31:チェインメイル
+鉄の鎖を組み上げて作った鎧。
+32:アイアンメイル
+鋼鉄製の鎧。
+33:プレートメイル
+騎士が身につける板金鎧。
+34:ミスリルメイル
+魔法の金属ミスリルで作られた鎧。
+35:竜鱗の鎧
+竜の鱗から作られた鎧。
+36:チェインコイフ
+頭部を覆う鉄鎖で編まれたフード。
+37:アイアンヘルム
+鋼鉄製の兜。
+38:ナイトヘルム
+騎士が身につける装飾された兜。
+39:ミスリルヘルム
+魔法の金属ミスリルで作られた兜。
+40:竜鱗の兜
+竜の鱗から作られた兜。
+41:バックラー
+攻撃を受け流すための小型盾。
+42:ラウンドシールド
+鉄の枠で補強した木製の円盾。
+43:スパイクシールド
+表面に攻撃用のトゲがついた円盾。
+44:ミスリルバックラー
+魔法の金属ミスリルで作られた小型盾。
+45:ドラゴンバックラー
+竜の鱗から作られた小型盾。
+46:ウッドシールド
+堅木を重ね合わせて作った盾。
+47:アイアンシールド
+鋼鉄製の盾。
+48:ナイトシールド
+グリフォンの紋章が刻まれた鋼の盾。
+49:ミスリルシールド
+魔法の金属ミスリルで作られた盾。
+50:竜鱗の盾
+竜の鱗を組み合わせて作った盾。
+51:闘神のベルト
+闘神の名が刻まれた金属のベルト。
+
+52:守りのピアス
+守りの魔法がかけられたピアス。
+
+53:ウィングブーツ
+風の精霊の力が宿るブーツ。
+
+54:大地のアミュレット
+大地の精霊の力が宿るお守り。
+
+55:幸運のお守り
+幸運の女神の名が刻まれたお守り。
+
+56:ホーリーシンボル
+神に仕える者がもつ聖なるシンボル。
+
+57:ソロモンの指輪
+魔神の力を秘めた指輪。
+
+58:戦乙女の首飾り
+持つ者に戦う力を与える魔法の首飾り。
+
+59:狂戦士の眼帯
+狂戦士の力が得られるアイパッチ。
+
+60:光のタリスマン
+神々の王の力が宿るお守り。
+61:
+
+62:
+
+63:Laoda Slippers
+Cute cloth shoes
+with Laoda symbol woven in
+64:Ice Ring
+Protects from ice-based attacks
+65:Fire Ring
+Protects from fire-based attacks
+66:Lightning Ring
+Protects from lightning-based attacks
+67:Water Ring
+Protects from water-based attacks
+68:地のリング
+大地属性の攻撃から身を守るリング
+69:Holy Ring
+Protects from all elemental attacks
+70:Dark Ring
+Protects from dark-based attacks
+71:
+
+72:Silver Ring
+Protects from paralysis & sleep attacks
+73:Steel Ring
+Protects from stun attacks
+74:
+
+75:
+
+76:
+
+77:
+
+78:
+
+79:
+
+80:
+
+81:
+
+82:
+
+83:
+
+84:
+
+85:
+
+86:
+
+87:
+
+88:
+
+89:
+
+90:
+
+91:
+
+92:
+
+93:
+
+94:
+
+95:
+
+96:
+
+97:
+
+98:
+
+99:
+
+100:
+
+=================== ПРОТИВНИКИ ===================
+1:
+2:こうもり
+3:ホーネット
+4:大グモ
+5:大ネズミ
+6:ウィスプ
+7:大蛇
+8:大サソリ
+9:大クラゲ
+10:食人花
+11:ゴースト
+12:スケルトン
+13:オーク
+14:インプ
+15:ゲイザー
+16:パペット
+17:ゾンビ
+18:コカトリス
+19:キマイラ
+20:ミミック
+21:ウェアウルフ
+22:サハギン
+23:オーガ
+24:ガーゴイル
+25:ラミア
+26:ヴァンパイア
+27:サキュバス
+28:デーモン
+29:魔王
+30:魔神
+31:
+32:Goblin
+33:Hobgoblin
+34:Slime
+35:Slime Bess
+36:Orc
+37:Orc Lord
+38:Orc Soldier
+39:General Orc
+40:Rafflesia
+41:Mandragora
+42:Carnivorous Plant
+43:Zombie
+44:Rotting Corpse
+45:Mummy
+46:Creeper
+47:Worm Head
+48:Tentacles
+49:Gargoyle
+50:Demon
+51:Archdemon
+52:
+53:Zeldia
+54:Qua
+55:Cidoles
+56:Seto
+57:
+58:Sphilia
+59:Sphilia
+60:Sphilia
+61:
+62:Zeldia
+63:Qua
+64:Cidoles
+65:Seto
+66:
+67:testZeldia
+68:
+69:
+70:
+71:
+72:
+73:
+74:
+75:
+76:
+77:
+78:
+79:
+80:
+81:
+82:
+83:
+84:
+85:
+86:
+87:
+88:
+89:
+90:
+91:
+92:
+93:
+94:
+95:
+96:
+97:
+98:
+99:
+100:
+=================== ГРУППЫ ВРАГОВ ===================
+1:敵<template>
+2:ゴブリン*3
+3:ゴブリンの群れ
+4:ホブゴブ*2
+5:
+6:スライム*3
+7:スライムの群れ
+8:スライムベス*2
+9:スライムベス*2
+10:オーク*3
+11:オークの群れ
+12:ゼネラルオーク*2
+13:ゼネラルオークの群れ
+14:ラフレシア*2
+15:ラフレシアの群れ
+16:マンドラゴラ*2
+17:食人植物の群れ
+18:マンドラゴラの群れ
+19:ゾンビ*3
+20:ゾンビの群れ
+21:マミーの群れ
+22:マミー*3
+23:マミーの群れ
+24:クリーパー*3
+25:ワームヘッド*2
+26:ワームヘッドの群れ
+27:テンタクルスの群れ
+28:テンタクルス*2
+29:ガーゴイル*2
+30:デーモンの群れ
+31:デーモン*2
+32:アークデーモンの群れ
+33:アークデーモン*2
+34:
+35:
+36:ゼルディア
+37:クア
+38:シドーレス
+39:セト
+40:
+41:スフィリア
+42:四天王
+43:
+44:testゼルディア
+45:
+46:
+47:スライム
+48:スライムベス
+49:オーク
+50:オークロード
+51:オークソルジャー
+52:ゼネラルオーク
+53:ラフレシア
+54:マンドラゴラ
+55:食人植物
+56:ゾンビ
+57:腐った死体
+58:マミー
+59:クリーパー
+60:ワームヘッド
+61:テンタクルス
+62:ガーゴイル
+63:デーモン
+64:アークデーモン
+65:
+66:
+67:
+68:
+69:
+70:
+71:
+72:
+73:
+74:
+75:
+76:
+77:
+78:
+79:
+80:
+81:
+82:
+83:
+84:
+85:
+86:
+87:
+88:
+89:
+90:
+91:
+92:
+93:
+94:
+95:
+96:
+97:
+98:
+99:
+100:
+=================== СТАТУСЫ ===================
+1:Knocked Out
+2:Paralysis
+3:Darkness
+4:Silence
+5:Confusion
+6:Sleep
+7:Paralysis
+8:スタン
+9:防御
+10:不死身
+11:かばう
+12:挑発
+13:隠れる
+14:HP再生
+15:MP再生
+16:TP再生
+17:鉄壁
+18:反撃
+19:魔法回避
+20:魔法反射
+21:炎の力
+22:氷の力
+23:雷の力
+24:異常防止
+25:消費MP減
+26:
+27:ダミーステート
+28:Magic x1.5
+29:Defense Halved
+30:No Panties
+31:Magic Doubled
+32:Magic Tripled
+33:Defense x0.8
+34:Agility Halved
+35:Attack Doubled
+36:
+37:Focus
+38:
+39:Loopy
+40:
+41:
+42:
+43:
+44:
+45:
+46:
+47:
+48:
+49:
+50:
+51:
+52:
+53:
+54:
+55:
+56:
+57:
+58:
+59:
+60:
+61:
+62:
+63:
+64:
+65:
+66:
+67:
+68:
+69:
+70:
+71:
+72:
+73:
+74:
+75:
+76:
+77:
+78:
+79:
+80:
+81:
+82:
+83:
+84:
+85:
+86:
+87:
+88:
+89:
+90:
+91:
+92:
+93:
+94:
+95:
+96:
+97:
+98:
+99:
+100:
+=================== ИМЕНА АНИМАЦИЙ ===================
+1:格闘/物理
+2:格闘/炎
+3:格闘/冷気
+4:格闘/雷
+5:格闘/必殺技1
+6:格闘/必殺技2
+7:斬撃/物理
+8:斬撃/炎
+9:斬撃/冷気
+10:斬撃/雷
+11:斬撃/必殺技1
+12:斬撃/必殺技2
+13:刺突/物理
+14:刺突/炎
+15:刺突/冷気
+16:刺突/雷
+17:刺突/必殺技1
+18:刺突/必殺技2
+19:打撃/物理
+20:打撃/炎
+21:打撃/冷気
+22:打撃/雷
+23:打撃/必殺技1
+24:打撃/必殺技2
+25:息/炎
+26:息/冷気
+27:息/雷
+28:息/状態異常
+29:花粉
+30:超音波
+31:霧
+32:歌
+33:閃光
+34:咆哮
+35:足払い
+36:体当たり
+37:回復1
+38:回復2
+39:回復3
+40:治療1
+41:治療2
+42:蘇生
+43:強化1
+44:強化2
+45:弱体1
+46:弱体2
+47:呪縛1
+48:呪縛2
+49:吸収
+50:毒
+51:暗闇
+52:沈黙
+53:混乱
+54:睡眠
+55:麻痺
+56:即死
+57:炎/単体1
+58:炎/単体2
+59:炎/全体1
+60:炎/全体2
+61:冷気/単体1
+62:冷気/単体2
+63:冷気/全体1
+64:冷気/全体2
+65:雷/単体1
+66:雷/単体2
+67:雷/全体1
+68:雷/全体2
+69:水/単体
+70:水/全体
+71:大地/単体
+72:大地/全体
+73:風/単体
+74:風/全体
+75:神聖/単体
+76:神聖/全体
+77:暗黒/単体
+78:暗黒/全体
+79:無属性/単体
+80:無属性/全体
+81:技発動
+82:格闘2/物理
+83:格闘2/炎
+84:格闘2/冷気
+85:格闘2/雷
+86:格闘/必殺技3
+87:斬撃/必殺技3
+88:斬撃/必殺技4
+89:斬撃/必殺技5
+90:刺突/必殺技3
+91:銃撃/単発
+92:銃撃/連発
+93:銃撃/必殺技
+94:強化3
+95:強化4
+96:弱体3
+97:弱体4
+98:火/全体3
+99:冷気/全体3
+100:雷/全体3
+101:水/全体2
+102:大地/全体2
+103:風/全体2
+104:神聖/全体2
+105:暗黒/全体2
+106:無属性/全体2
+107:汎用/光の柱1
+108:汎用/光の柱2
+109:汎用/光の弾
+110:汎用/放射線
+111:
+112:召喚
+113:変身
+114:ワープ
+115:
+116:街灯割れる
+117:鏡割れる
+118:
+119:無属性/全体2
+120:爆竹
+121:
+122:
+123:
+124:
+125:
+126:
+127:
+128:
+129:
+130:
+131:
+132:
+133:
+134:
+135:
+136:
+137:
+138:
+139:
+140:
+141:
+142:
+143:
+144:
+145:
+146:
+147:
+148:
+149:
+150:
+151:
+152:
+153:
+154:
+155:
+156:
+157:
+158:
+159:
+160:
+161:
+162:
+163:
+164:
+165:
+166:
+167:
+168:
+169:
+170:
+171:
+172:
+173:
+174:
+175:
+176:
+177:
+178:
+179:
+180:
+181:
+182:
+183:
+184:
+185:
+186:
+187:
+188:
+189:
+190:
+191:
+192:
+193:
+194:
+195:
+196:
+197:
+198:
+199:
+200:
+=================== ТАЙЛСЕТЫ ===================
+1:フィールド
+2:外観
+3:内装
+4:ダンジョン
+5:タイルex
+6:MAPex２
+7:ancient1
+8:ancient2
+9:ancient3
+10:ancient4
+11:ワールド
+12:森
+13:塔
+14:塔1F
+15:洞窟
+16:森
+17:ラオダ
+18:遺跡
+19:温泉
+20:外観2
+21:外観2（小船）
+22:村
+23:村２
+24:村３
+25:内装3
+26:魔法実験室
+27:衛兵団本部
+28:魔法実験室op
+29:魔法具店
+30:ancient5
+31:ゴーデルの寝室
+32:ストリップ劇場
+33:ex3
+34:和風
+35:温泉
+36:内装4
+37:教会
+38:
+39:奴隷市
+40:奴隷市
+=================== СИСТЕМНЫЕ СТРОКИ ===================
+ShopBuy:Buy
+ShopSell:Sell
+ShopCancel:Quit
+Possession:Inventory
+ExpTotal:Current EXP
+ExpNext:Next %s
+SaveMessage:Write journal entry of your adventures?
+LoadMessage:Load Saved Memory
+File:Magical Diary
+PartyName:%s's Party
+Emerge:%s appears!
+Preemptive:%s gets the first move!
+Surprise:%s is taken by surprise!
+EscapeStart:%s escapes!
+EscapeFailure:But they couldn't escape!
+Victory:%s wins!
+Defeat:%s lost the battle.
+ObtainExp:%s EXP gained!
+ObtainGold:%s\G gold gained!
+ObtainItem:Obtained %s!
+LevelUp:%s's %s rose to %s!
+ObtainSkill:Learned %s!
+UseItem:%s used %s!
+CrticalToEnemy:Critical hit!!
+CriticalToActor:Critical hit!!
+ActorDamage:%s received %s damage!
+ActorRecovery:%s's %s recovered by %s!
+ActorGain:%s's %s increased by %s!
+ActorLoss:%s's %s decreased by %s!
+ActorDrain:%s lost %s %s!
+ActorNoDamage:%s doesn't receive damage!
+ActorNoHit:Miss! %s doesn't receive damage!
+EnemyDamage:%s received %s damage!
+EnemyRecovery:%s's %s recovered by %s!
+EnemyGain:%s's %s increased by %s!
+EnemyLoss:%s's %s decreased by %s!
+EnemyDrain:%s lost %s %s!
+EnemyNoDamage:%s doesn't receive damage!
+EnomyNoHit:Miss! %s doesn't receive damage!
+Evasion:%s evaded the attack!
+MagicEvasion:%s nullified the magic!
+MagicReflection:%s reflected the magic!
+CounterAttack:%s strikes back!
+Substitute:%s protects %s!
+BuffAdd:%s's %s rose!
+DebuffAdd:%s's %s fell!
+BuffRemove:%s's %s returned to normal!
+ActionFailure:Doesn't work on %s!
+PlayerPosError:The player's initial position is not configured.
+EventOverflow:Common event calls exceeded the limit.
+=================== ТЕРМИНЫ ===================
+ЭЛЕМЕНТЫ:
+1:物理
+2:吸収
+3:炎
+4:氷
+5:雷
+6:水
+7:大地
+8:風
+9:神聖
+10:暗黒
+ТИПЫ СКИЛЛОВ:
+1:Skill
+2:Magic
+3:
+ТИПЫ ОРУЖИЯ:
+1:男の武器
+2:爪
+3:槍
+4:剣
+5:刀
+6:弓
+7:短剣
+8:槌
+9:杖
+10:銃
+11:女の武器
+ТИПЫ БРОНИ:
+1:男の防具
+2:魔法防具
+3:軽装防具
+4:重装防具
+5:小型盾
+6:大型盾
+7:二人の防具
+ТЕРМИНЫ:
+Level:Level
+Level (short):Lv
+HP:HP
+HP (short):HP
+MP:MP
+MP (short):MP
+TP:TP
+TP (short):TP
+MHP:Макс. ОЗ
+MMP:Макс ОМ
+ATK:Attack
+DEF:Defense
+MAT:Magic
+MDF:Magic Defense
+AGI:Agility
+LUK:Luck
+Weapon:Оружие
+Shield:Shield
+Head:Head
+Body:Body
+Accessory:Accessories
+Fight:Fight
+Escape:Run
+Attack:Attack
+Defend:Defend
+Item:Item
+Skill:Skill
+Equip:Equip
+Status:Status
+Sort:Change Order
+Save:Сохранить
+Exit Game:Выйти из игры
+(not used):
+Weapon:Weapon
+Armor:Armor
+Key Item:Key Items
+Change Equipment:Change Equip
+Ultimate Equipment:Equip Best
+Remove All:Take Off All
+New Game:Новая игра
+Continue:Continue
+Shut Down:Shut Down
+Go to Title:To Title
+Cancel:Quit
+
+
