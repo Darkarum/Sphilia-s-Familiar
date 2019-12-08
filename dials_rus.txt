@@ -3268,36 +3268,36 @@ the two prepare to set off on an adventurous journey...
 0000749:
 Во времена правления Владыки демонов...
 0000750:
-Людей считали паразитами.
-Men were placed on labor
-and women were used as playthings for monsters.
+Людей считали насекомыми.
+Мужчин заставляли работать, а над женщинами
+потешались монстры.
 0000751:
-Objecting to this meant death.
-It was an age of darkness.
+И любые возражения карались смертью.
+Это были смутные времена...
 0000752:
-The demon lord had four loyal demons, THE ELITE FOUR.
-Their powers were unmatched, and together ruled the world.
+У Владыки демонов было 4 верных слуги – Элитная четвёрка.
+Они обладали несравненной силой и вместе правили миром.
 0000753:
-But, in time a holy wizard appears to shatter the evil.
-The holy wizard fought alongside with its familiar
-against the demon lord\v[200]s army.
+Но однажды появился святой волшебник, уничтоживший
+зло. Вместе со своим фамильяром он сражался
+против армии Владыки демонов.
 0000754:
-After a battle lasting over many months,
-They succeed in defeating the demon lord.
+После многомесячной битвы, им удалось
+одержать победу.
 0000755:
-The elite four dispersed, and the world was set free.
-However, the holy wizard predicted
-the demon lord will rise again.
+Элитная четверка распалось, и мир стал свободным.
+Однако святой волшебник предсказал, что
+Владыка воскреснет вновь.
 0000756:
-If that is true,
-the world will be enveloped in darkness once again...
+Если его слова – правда, то мир снова
+будет окутан тьмой...
 0000757:
-The wizard built a city, and prepared for the resurrection
-of the demon lord. The name of the city is Asgard.
+Волшебник построил город и приготовился к возрождению
+Владыки. И назвал он свой город – Асгард.
 0000758:
-400 years later
-The descendants of the holy wizard
-are worshiped by the people of the city...
+Даже 400 лет спустя люди боготворят
+потомков этого великого
+героя...
 Событие №:2
 0000759:
 
