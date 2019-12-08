@@ -1886,6 +1886,6 @@ Ultimate Equipment:Equip Best
 Remove All:Take Off All
 New Game:Новая игра
 Continue:Продолжить
-Shut Down:Shut Down
+Shut Down:Выход
 Go to Title:To Title
 Cancel:Quit
