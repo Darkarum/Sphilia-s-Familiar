@@ -1,4 +1,4 @@
-
+Ğ¡Ğ°Ğ½Ñ Ğ¿Ğ¸ Ğ´Ğ¾Ñ€
 ------------------------------------------------------------
 
 Sphilia's Familiar
@@ -39,55 +39,55 @@ dorgel.contact@gmail.com
 Thank you very much.
 *********************
 
-ŸScript MaterialsŸ
+â—†Script Materialsâ—†
 
 CACAO SOFT http://cacaosoft.web.fc2.com/
-ƒcƒN[ƒ‹H–[ A1i‰¼j http://a1tktk.web.fc2.com/
+ãƒ„ã‚¯ãƒ¼ãƒ«å·¥æˆ¿ A1ï¼ˆä»®ï¼‰ http://a1tktk.web.fc2.com/
 Artificial Providence http://artificialprovidence.web.fc2.com/
-‚İ‚ñ‚Æ‚Ì‚¨•”‰® http://mintoroom.saloon.jp/
-–Ø¯ƒyƒ“ƒMƒ“ http://woodpenguin.blog.fc2.com/
-o•— http://windmesser.tm.land.to/index.html
-‚Ğ‚«‚à‹L http://hikimoki.sakura.ne.jp/
-ƒvƒ`ƒŒƒA http://petitrare.com/blog/
-‚Ö‚Õ‚½‚È‚·‚­‚ë[‚é http://heptanas.mamagoto.com/
-‰ñ‘z—Ìˆæ http://kaisou-ryouiki.sakura.ne.jp/
-Suppon‚ÌˆÓ–¡•s–¾ƒuƒƒO http://supponweblog.blog88.fc2.com/
+ã¿ã‚“ã¨ã®ãŠéƒ¨å±‹ http://mintoroom.saloon.jp/
+æœ¨æ˜Ÿãƒšãƒ³ã‚®ãƒ³ http://woodpenguin.blog.fc2.com/
+å¡µé¢¨ http://windmesser.tm.land.to/index.html
+ã²ãã‚‚è¨˜ http://hikimoki.sakura.ne.jp/
+ãƒ—ãƒãƒ¬ã‚¢ http://petitrare.com/blog/
+ã¸ã·ãŸãªã™ãã‚ãƒ¼ã‚‹ http://heptanas.mamagoto.com/
+å›æƒ³é ˜åŸŸ http://kaisou-ryouiki.sakura.ne.jp/
+Supponã®æ„å‘³ä¸æ˜ãƒ–ãƒ­ã‚° http://supponweblog.blog88.fc2.com/
 WHITE-FLUTE http://www.whiteflute.org/wfrgss/
-Lib‚ÌƒcƒN[ƒ‹ƒy[ƒW ƒCƒxƒ“ƒgƒŠƒvƒŒƒC http://librpg.zatunen.com/
-ParaSite2D6 RPGŠÙ ƒuƒƒO http://para.blog14.fc2.com/
+Libã®ãƒ„ã‚¯ãƒ¼ãƒ«ãƒšãƒ¼ã‚¸ ã‚¤ãƒ™ãƒ³ãƒˆãƒªãƒ—ãƒ¬ã‚¤ http://librpg.zatunen.com/
+ParaSite2D6 RPGé¤¨ ãƒ–ãƒ­ã‚° http://para.blog14.fc2.com/
 Blue Red Zone http://blueredzone.com/
-‡H–[ http://hime.be/
-‚à‚à‚Ü‚é http://peachround.com/
+ç¡å·¥æˆ¿ http://hime.be/
+ã‚‚ã‚‚ã¾ã‚‹ http://peachround.com/
 
-ŸGraphic MaterialsŸ
+â—†Graphic Materialsâ—†
 
 CLOSET http://eurs.blog65.fc2.com/
-ƒVƒAƒ“‚Ì‚ä‚è‚©‚² http://cyanyurikago.web.fc2.com/
-‰¤‘‹»–S‹L http://makapri.web.fc2.com/
-‚Æ‚ç‚Ë‚±‚³‚ñ‚Ì¬‰® http://www.k3.dion.ne.jp/~toraneko/
+ã‚·ã‚¢ãƒ³ã®ã‚†ã‚Šã‹ã” http://cyanyurikago.web.fc2.com/
+ç‹å›½èˆˆäº¡è¨˜ http://makapri.web.fc2.com/
+ã¨ã‚‰ã­ã“ã•ã‚“ã®å°å±‹ http://www.k3.dion.ne.jp/~toraneko/
 Blanche Patisserie http://www5.hp-ez.com/hp/white-patisserie/
-ƒ†[ƒfƒBƒI@©ìƒQ[ƒ€’u‚«ê http://yuudio50.blog.fc2.com/
+ãƒ¦ãƒ¼ãƒ‡ã‚£ã‚ªã€€è‡ªä½œã‚²ãƒ¼ãƒ ç½®ãå ´ http://yuudio50.blog.fc2.com/
 
-ŸAudio MaterialsŸ
+â—†Audio Materialsâ—†
 
-–‚‰¤° http://maoudamashii.jokersounds.com/
-—´“IŒğ‹¿Šy http://d-symphony.nsf.jp/
+é­”ç‹é­‚ http://maoudamashii.jokersounds.com/
+é¾çš„äº¤éŸ¿æ¥½ http://d-symphony.nsf.jp/
 M-ART http://mart.kitunebi.com/
-On-Jin `‰¹l` http://on-jin.com/
-‰¹Šy‚Ì—‘ http://ontama-m.com/
-ŠÃ’ƒ‚Ì‰¹ŠyH–[ http://amachamusic.chagasi.com/
+On-Jin ï½éŸ³äººï½ http://on-jin.com/
+éŸ³æ¥½ã®åµ http://ontama-m.com/
+ç”˜èŒ¶ã®éŸ³æ¥½å·¥æˆ¿ http://amachamusic.chagasi.com/
 Music is VFR http://musicisvfr.com/
 MusMus http://musmus.main.jp
 DOVA-SYNDROME https://dova-s.jp
 Wingless Seraph https://wingless-seraph.net
 
-ŸRPG Maker MaterialsŸ
-RPGƒcƒN[ƒ‹DS ƒOƒ‰ƒtƒBƒbƒN•‰¹Šy‘fŞW
+â—†RPG Maker Materialsâ—†
+RPGãƒ„ã‚¯ãƒ¼ãƒ«DS ã‚°ãƒ©ãƒ•ã‚£ãƒƒã‚¯ï¼†éŸ³æ¥½ç´ æé›†
 (C)2017 KADOKAWA CORPORATION.
-TIME FANTASYFMONSTERS
-(C) 2018 DEGICA Co., LTD;@artist: Jason Perry.
+TIME FANTASYï¼šMONSTERS
+(C) 2018 DEGICA Co., LTD;ã€€artist: Jason Perry.
 
 
-ŸDisclaimerŸ
+â—†Disclaimerâ—†
 Please note, the copyright owner assumes no responsibility
 in regard to any damages, troubles etc. that may be caused by using this software.
